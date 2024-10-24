@@ -1,0 +1,46 @@
+= Ana
+
+== Description
+Ana Amari is a legendary sniper and a founding member of Overwatch. Born in Cairo, Egypt, she was a gifted healer and a sharpshooter. After a series of tragic events that left her believing she had lost her loved ones, Ana took a step back from her life as a soldier. However, she was drawn back to protect humanity as her old friend, Soldier: 76, sought her help. Armed with her biotic rifle and unwavering resolve, she now fights to heal her allies and protect the innocent, all while uncovering the past she thought she had left behind.
+
+== Abilities
+
+Biotic Rifle: A versatile weapon that can both heal allies and damage enemies. (Cooldown: None, Damage: 70; Heal: 75 per shot)
+Sleep Dart: A projectile that puts enemies to sleep for a short duration. (Cooldown: 15 seconds, Duration: 5 seconds)
+Biotic Grenade: A grenade that can heal allies or deal damage to enemies while preventing healing. (Cooldown: 10 seconds, Heal: 100; Damage: 60)
+Nano Boost: An ultimate ability that grants an ally increased damage output and reduces all damage taken for a short duration. (Cooldown: 0 seconds, Duration: 8 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Ana excels in providing healing from a distance while also being able to take out key targets. In offense scenarios, position yourself away from the front lines to maximize your healing output without being threatened. In defense, use the environment to your advantage, and prioritize healing the tank and damage dealers. During team fights, coordinate your ultimate with your team’s strategies, and look for opportunities to use Sleep Dart on key enemy threats, like flankers or ult-charging heroes.
+
+== Pros and Cons
+
+Pros:
+- Strong healing output that can support multiple teammates.
+- Can disable enemies with Sleep Dart, providing crucial moments for her team.
+- High potential damage output with her Biotic Rifle when played effectively.
+
+Cons:
+- Vulnerable to flanks and enemies who can close the gap quickly.
+- Requires good aim and positioning to be effective.
+- Limited mobility, making her susceptible to dive tactics.
+
+== Counters
+
+Widowmaker: Ana is countered by Widowmaker due to her ability to outrange and out-snipe Ana, putting her in constant danger.
+Tracer: Tracer can quickly close the gap and evade Ana’s shots, making it hard for her to heal while also being a high-priority target.
+Reaper: Reaper can sustain through Ana’s damage while closing in quickly to eliminate her if not kept at a distance.
+
+== Countered By
+
+Pharah: Pharah is difficult for Ana to hit due to her aerial mobility and can deal significant damage from above.
+Doomfist: Doomfist can quickly close the distance and burst-kill Ana before she has a chance to react.
+Genji: Genji can deflect Ana's projectiles and uses high mobility to engage her effectively, often catching her off-guard.
