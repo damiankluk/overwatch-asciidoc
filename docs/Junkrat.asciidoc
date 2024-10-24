@@ -1,0 +1,49 @@
+= Junkrat
+
+== Description
+Junkrat, whose real name is Jamison Fawkes, is a former member of the Omnic Crisis who became a scavenger and demolitions expert in the Australian Outback. He embodies chaos and destruction, using his penchant for explosives to wreak havoc on his enemies. After a series of events in which he lost his leg in an explosion and became enmeshed with his trusty steel-rimmed wheelchair, he embraced the chaotic lifestyle, seeking to create the most massive explosions possible. His obsession with explosions is as much a part of his identity as his laughter-filled cackle that echoes during battle. 
+
+== Abilities
+
+**Grenade Launcher**: Fires grenades that bounce off surfaces and explode after a short duration or upon impact. (Cooldown: N/A, Damage: 120)
+
+**Concussion Mine**: Throws a mine that detonates after a short delay or when triggered remotely, dealing damage and knocking enemies back. (Cooldown: 10 seconds, Damage: 100)
+
+**Steel Trap**: Deploys a trap that immobilizes and damages enemies that step into it. (Cooldown: 10 seconds, Damage: 100)
+
+**RIP-Tire**: Deploys a tire that Junkrat can control to roll around the battlefield, exploding on command for substantial damage. (Cooldown: 50 seconds, Damage: 600)
+
+== Stats
+
+Health: 150  
+Armor: 0  
+Shields: 0  
+Movement Speed: 5.5 m/s  
+Critical Hit Multiplier: 2.0x  
+
+== Strategy
+Junkrat excels at area denial and zoning due to his explosive abilities. On offense, utilize walls to bounce grenades around corners to deal damage to enemies without exposing yourself. On defense, set traps and concussion mines in expected enemy pathways to deter pushes and secure eliminations. In team fights, coordinate with teammates to distract or control the battlefield while deploying your RIP-Tire to catch multiple enemies off-guard, maximizing its damage potential.
+
+== Pros and Cons
+
+Pros:
+- High area damage and control with explosive projectiles.
+- Ability to create chaos, making it hard for enemies to predict movements.
+- Strong zoning capabilities with his traps and mines.
+
+Cons:
+- Low mobility and lack of defense, making him vulnerable to direct attacks.
+- Requires precision and good positioning to maximize damage.
+- Easy target for snipers and heroes with high burst damage.
+
+== Counters
+
+- **Reinhardt**: Junkrat's explosives can chip away at Reinhardt's shield, forcing him to reposition.
+- **D.Va**: D.Va's Defense Matrix can absorb Junkrat's grenades, but poor positioning can lead to her being caught in his traps.
+- **Orisa**: Junkrat can destroy Orisa's barriers and make it difficult for her to deploy them effectively.
+
+== Countered By
+
+- **Pharah**: Pharah’s aerial mobility allows her to avoid Junkrat's ground-based explosives, dealing damage from the air.
+- **Genji**: Genji's mobility and deflect ability can easily counter Junkrat’s projectiles.
+- **Roadhog**: Roadhog can tank Junkrat’s damage and hook him, effectively neutralizing his chaotic playstyle.
