@@ -1,0 +1,49 @@
+= Ana
+
+== Description
+Ana Amari is a former sniper and a key figure in Overwatch’s history, known for her exceptional marksmanship and healing capabilities. Hailing from a long line of nurses and soldiers, Ana fought alongside Overwatch and was a member of the original team. After a fateful encounter that left her presumed dead, Ana took on a new persona, dedicating her life to healing and protecting those in need. She fights to restore peace and believes that the best way to save the world is to mend it through compassion and skill. Ana is a support hero who uses her abilities to heal allies and hinder enemies from a distance.
+
+== Abilities
+
+* Biotic Rifle: A powerful sniper rifle that can deal damage to enemies and heal allies. (Cooldown: None, Damage: 70, Healing: 70)
+* Sleep Dart: Fires a dart that puts an enemy to sleep for a short duration. (Cooldown: 15 seconds)
+* Biotic Grenade: Throws a grenade that heals allies and prevents enemies from receiving healing for a limited time. (Cooldown: 10 seconds, Healing: 100, Damage: 60)
+* Nano Boost: An ultimate ability that increases the damage and reduces incoming damage for a targeted ally. (Cooldown: 0, Duration: 8 seconds)
+
+== Stats
+
+Health: 200
+Armor: None
+Shields: None
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Ana excels in the backline, providing sustained healing for her team while dealing damage to opponents. Positioning is crucial; she should stay out of reach of enemy flankers while maintaining line-of-sight to heal allies. 
+
+* **Offense**: Focus on using Biotic Grenade to disrupt enemy healing and damage. Aim for headshots with the Biotic Rifle to maximize output.
+* **Defense**: Stay near teammates, utilizing the Sleep Dart to incapacitate high-threat enemies and Biotic Grenade to support allies while keeping enemies at bay.
+* **Team Fights**: Prioritize healing over damage when teammates are low. Use Nano Boost on high-damage dealers like Reaper or Soldier: 76 to turn the tide of battle.
+
+== Pros and Cons
+
+Pros:
+* High burst healing and damage potential.
+* Long-range abilities allow for safe positioning.
+* Can disable enemies with Sleep Dart.
+* Provides strong utility with Biotic Grenade.
+
+Cons:
+* Vulnerable to flankers and dive heroes.
+* Requires excellent aim and positioning.
+* Dependent on teammates’ cooperation for maximum effect.
+
+== Counters
+
+* Pharah: Ana can counter Pharah’s mobility by landing hits with her Biotic Rifle and healing teammates, but also relies on teammates to bring her down.
+* Reaper: With her Biotic Grenade, Ana can negate Reaper's healing and keep him in check from a distance.
+
+== Countered By
+
+* Genji: His swift movements allow him to close gaps and deal significant damage before Ana can react.
+* Doomfist: Can quickly engage Ana with his mobility and burst damage, making it hard for her to escape or heal effectively.
