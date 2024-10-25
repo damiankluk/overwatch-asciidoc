@@ -1,0 +1,44 @@
+= Hanzo
+
+== Description
+Hanzo is a skilled archer from the Shimada clan, known for his agility, precision, and deadly abilities. Haunted by his past and the legacy of his family, he aims to reconcile with his brother Genji and prove himself as a warrior. With a combination of speed and lethal ranged attacks, Hanzo serves as a damage dealer in the Overwatch universe, showcasing excellent mobility and exceptional scouting capabilities.
+
+== Abilities
+
+Storm Bow: Hanzo's primary weapon, a bow that can charge an arrow for increased damage. (Cooldown: None, Damage: 125 per charged shot)
+Sonic Arrow: Fires an arrow that reveals enemies in the area for a short duration. (Cooldown: 12 seconds)
+Scatter Arrow: Shoots an arrow that explodes into three smaller arrows, dealing damage in a cone. (Cooldown: 10 seconds, Damage: 75 per hit)
+Dragonstrike: Hanzo’s ultimate ability, summoning a dragon spirit that travels forward, dealing damage to all enemies in its path. (Cooldown: 210 seconds, Damage: 200)
+
+== Stats
+
+Health: 200
+Armor: None
+Shields: None
+Movement Speed: 125% (Normal)
+Critical Hit Multiplier: 2x (250 damage when hit in the head)
+
+== Strategy
+Hanzo is best played at mid to long range, where he can utilize his bow to deal significant damage while remaining out of harm's way. In offensive plays, he can poke at enemies with his Storm Bow and utilize Sonic Arrow to gain intel on enemy positions. During team fights, positioning is crucial; using Scatter Arrow can help clear out groups of enemies. For defensive strategies, holding high ground allows Hanzo to rain arrows down upon opponents effectively.
+
+== Pros and Cons
+
+Pros:
+- High damage potential with headshots.
+- Ability to scout enemy positions with Sonic Arrow.
+- Good mobility and wall climb for repositioning.
+Cons:
+- Requires precision and skill to maximize damage.
+- Vulnerable to flanking heroes due to low health.
+
+== Counters
+
+- Pharah: Hanzo's hitscan abilities can effectively deal with her when he manages to get a clear shot from the ground.
+- Zarya: The charge from her barriers allows Hanzo to land shot opportunities without risk of retaliation.
+- Reinhardt: Hanzo can shoot over Reinhardt's shield, dealing damage directly to him or his teammates behind.
+
+== Countered By
+
+- Genji: Can deflect Hanzo’s arrows and close the gap quickly with swift mobility and damage.
+- Widowmaker: A long-range sniper who can easily eliminate Hanzo with a single headshot if she maintains distance.
+- Tracer: Fast and unpredictable, Tracer can flank Hanzo and capitalize on his low health and vulnerability if he misses his shots.
