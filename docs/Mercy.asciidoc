@@ -1,0 +1,44 @@
+= Mercy
+
+== Description
+Mercy, also known as Dr. Angela Ziegler, is a healer and support hero in the Overwatch universe. She is a Swiss physician and researcher who once worked for the Overwatch organization. After witnessing the horrors of war and the suffering of individuals, she vows to help those in need. Her Valkyrie technology allows her to zealously revive her fallen allies and keep the team alive in the heat of battle. Mercy is known for her unwavering commitment to saving lives, and she harnesses her incredible healing abilities to ensure her teammates can deliver justice.
+
+== Abilities
+
+Resurrect: Revives a fallen teammate to full health (Cooldown: 30s)
+Healing Staff: Heals an ally over time or boosts their damage (Cooldown: None, Healing: 50 HP/s)
+Valkyrie: Enhances Mercy's abilities for a short duration (Cooldown: 90s)
+Guardian Angel: Fly to an ally or travel to a designated spot (Cooldown: 1s)
+Damage Boost: Increases the damage dealt by an ally while healing (Cooldown: None, Boost: 30%)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 200%
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Mercy is generally played as a support hero, focusing on healing teammates and using her mobility to stay in safe positions. In offense, stay behind your allies, ensuring they are healed while boosting their damage. On defense, position yourself strategically to resurrect fallen teammates quickly without exposing yourself too much. During team fights, utilize Valkyrie to maximize your healing and reviving potential while keeping an eye on your team's health. Always be aware of which teammates are vulnerable and prioritize healing or damage-boosting accordingly.
+
+== Pros and Cons
+
+Pros:
+- Strong single-target healing and support.
+- Ability to revive fallen teammates, turning the tide of battles.
+Cons:
+- Vulnerable to flanking heroes and those who can burst her down quickly.
+- Lacks self-defense abilities; can be ineffective without teammates nearby.
+
+== Counters
+
+Reaper: His high damage output can quickly eliminate Mercy, especially if she doesn’t have teammates nearby to heal.
+Sombra: Can hack Mercy, rendering her abilities useless and allowing her to be eliminated with ease.
+Pharah: Can out-range Mercy's healing abilities, making it difficult for her to assist ground-based allies effectively.
+
+== Countered By
+
+Widowmaker: Can eliminate Mercy from long-range before she can react, making her vulnerable.
+McCree: His high burst damage paired with a stun can easily take down Mercy before she can heal herself or others.
+Torbjörn: His turret can quickly target and eliminate Mercy, especially if she’s occupied healing someone else.
