@@ -1,0 +1,47 @@
+= Kiriko
+
+== Description
+Kiriko is a healer from Kanazaka, a shrine maiden who uses her mystical powers and agile skills to heal and protect her allies. Trained in the arts of ninjutsu, she moves with incredible speed and finesse. Kiriko possesses a special connection to her ancestral spirits, allowing her to channel their power to help her teammates. Her lore is rooted deeply in the ancient traditions of her village, where she learned to balance life and spirit, making her a unique presence on the battlefield.
+
+== Abilities
+
+Healing Ofuda: A projectile that heals allies for 50 health each. (Cooldown: 0.5 seconds, Damage: 0)
+Kunai: A precision throw weapon that deals 40 damage with a critical hit multiplier of 2. (Cooldown: N/A, Damage: 40)
+Protection Suzu: A brief invulnerability spell that cleanses debuffs for 1 second. (Cooldown: 15 seconds)
+Swift Step: A dash ability to teleport to an ally within range. (Cooldown: 7 seconds)
+Kitsune Rush (Ultimate): A powerful ability that summons a fox spirit to grant increased movement and attack speed to allies in a specified area. (Duration: 10 seconds, Cooldown: 200 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+In team fights, Kiriko should be positioned safely to support allies while using Healing Ofuda to maintain their health. She excels in providing burst healing and utility in chaotic situations. During offense, teleporting to allies under fire can save them while allowing Kiriko to reposition quickly. On defense, her Protection Suzu cleanses important crowd control effects, making it vital to use at critical moments.
+
+== Pros and Cons
+
+Pros:
+- High mobility with Swift Step enables fast repositioning.
+- Powerful healing capability with the ability to heal multiple allies quickly.
+- Unique cleansing ability that can turn the tide by removing debuffs.
+
+Cons:
+- Limited health pool makes her vulnerable.
+- Skills require good timing and positioning to maximize effectiveness.
+- Relies on aiming precision with Kunai for damage output.
+
+== Counters
+
+- Moira: Kiriko can counter Moira by cleansing her Biotic Grasp with Protection Suzu, neutralizing her healing effect.
+- Baptiste: When timed correctly, Protection Suzu can remove Baptiste's Amplification Matrix debuff.
+- Mercy: Kiriko's quick healing can outmatch Mercy’s healing over time, especially if she catches Mercy out of position.
+
+== Countered By
+
+- Reaper: His close-range damage output can quickly eliminate Kiriko, especially while she has no escape options.
+- Widowmaker: Kiriko's low health makes her an easy target for Widowmaker's long-range shots.
+- Sombra: A hacked Kiriko loses access to her healing abilities, making her extremely vulnerable to attack.
