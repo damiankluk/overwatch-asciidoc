@@ -1,0 +1,54 @@
+= Orisa
+
+== Description
+Orisa is a tank hero in Overwatch, designed to act as a protector and bulwark for her team. Created by Dr. Mina Liao, Orisa is a highly advanced robot that harnesses the power of a modified version of the OR15 defense bots, initially designed for the city of Numbani. Following the attack of Doomfist, she was assembled from the remaining OR15 parts to protect the city and its inhabitants. Orisa embodies the ideals of courage and determination, seeking to keep her allies safe while pressing the front lines.
+
+== Abilities
+
+Fortify: Orisa temporarily gains damage resistance, making her immune to Critical Hits. (Cooldown: 8 seconds)
+
+Halt!: Orisa launches a graviton charge that can be detonated to create a gravitational pull, pulling enemies toward its center. (Cooldown: 8 seconds)
+
+Protective Barrier: Orisa generates a barrier that can absorb damage, providing cover for her teammates. (Cooldown: 8 seconds)
+
+Supercharger: Orisa deploys a device that increases the damage output of allies within its line of sight. (Cooldown: 15 seconds)
+
+== Stats
+
+Health: 200
+Armor: 200
+Shields: None
+Movement Speed: 4.4 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Orisa excels in holding positions and creating a frontline for her team. In offensive scenarios, she should move along with her team to the objective, using her Protective Barrier to shield allies during engagements. During defense, positioning herself at choke points allows her to control the flow of enemy advances effectively. In team fights, her Supercharger can turn the tide by boosting allies' damage, making it crucial to place it safely to avoid destruction.
+
+== Pros and Cons
+
+Pros:
+- High damage resistance with Fortify.
+- Excellent crowd control with Halt!.
+- Can create strategic cover with Protective Barrier.
+- Provides significant damage boost to allies with Supercharger.
+
+Cons:
+- Vulnerable to flanks due to limited mobility.
+- Requires good positioning and timing for abilities.
+- Supercharger can be destroyed easily if not protected.
+
+== Counters
+
+Reaper: Orisa's high damage resistance struggles to deal with Reaper's shotgun damage at close range and can be flanked easily.
+
+Pharah: Orisa cannot target Pharah easily, and her Protective Barrier is ineffective against aerial threats.
+
+Roadhog: Roadhog can bypass Orisa's defenses with his hook and burst damage, making it hard for her to counter him directly.
+
+== Countered By
+
+Bastion: Bastion’s damage output can easily overwhelm Orisa, especially when transformed into sentry mode.
+
+Sombra: Sombra can hack Orisa, disabling her abilities and making her vulnerable in fights.
+
+Widowmaker: A skilled Widowmaker can pick off Orisa easily given her lack of mobility and exposure when using her abilities.
