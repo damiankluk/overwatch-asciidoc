@@ -1,0 +1,58 @@
+= Symmetra
+
+== Description
+Symmetra, originally known as Satya Vaswani, is a support hero known for her ability to manipulate light and create hard-light constructs. As a member of Vishkar Corporation, she initially aimed to create a better world through the use of technology. Her abilities reflect her past as an architect and her philosophy of order, as she seeks to establish control and structure in chaotic environments. Symmetra believes in the potential of technology and its ability to bring people together, but she is often depicted as a complex character struggling with the moral implications of her role within the corporation and the world.
+
+== Abilities
+
+Photon Projector: A versatile weapon that allows Symmetra to switch between a short-range beam and explosive projectiles. (Cooldown: N/A, Damage: 60 per second at max charge)
+
+Sentry Turret: Deploy up to three automated turrets that target enemies. (Cooldown: 10 seconds, Damage: 50 per second)
+
+Kinetic Grasp: Absorbs incoming projectiles, converting them into shields. (Cooldown: 10 seconds)
+
+Photon Barrier: A large, deployable barrier that can be projected across the map. (Cooldown: 20 seconds)
+
+Teleporter: Creates a teleporter for allies to quickly get to the front lines or reposition. (Cooldown: 30 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0 (initially), up to 75 with Kinetic Grasp
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Symmetra excels in both offensive and defensive roles, depending on her team composition and the map. 
+
+- **Offense:** Use her Photon Projector to deal damage at close range while constantly charging her weapon. Deploy Sentry Turrets in key locations to control choke points or to provide additional firepower against enemies. Place a Teleporter strategically to enable quick flanking maneuvers or to reinforce allies in need.
+  
+- **Defense:** Position yourself in areas with good sightlines to maximize the potential of your Turrets and Photon Barrier. Use your Kinetic Grasp effectively to absorb incoming damage and convert it into shields during critical moments of engagement. 
+
+- **Team Fights:** Focus on protecting your healers and damage-dealers with your Teleporter and Photon Barrier. Collaborate with teammates to set up crossfires and traps using your Turrets.
+
+== Pros and Cons
+
+Pros:
+- High damage potential with charged Photon Projector.
+- Can create strong area denial with Sentry Turrets.
+- Provides mobility and repositioning through Teleporters.
+- Shields can help absorb damage effectively.
+
+Cons:
+- Vulnerable at long range and to burst damage.
+- Requires careful placement of abilities to be effective.
+- Low health pool limits survivability if caught out.
+
+== Counters
+
+Bastion: Symmetra’s ability to deploy Sentry Turrets can disrupt Bastion when configured, allowing for significant damage to be dealt.
+Reinhardt: With effective Torpedo placements, Symmetra can prevent Reinhardt from charging through zones as his shield may be distracted.
+Winston: Symmetra's Sentry Turrets can chip away Winston's health while he is distracted trying to dive into the backline.
+
+== Countered By
+
+Pharah: Symmetra struggles against Pharah due to her inability to damage her effectively at range.
+Reaper: Reaper can quickly close the gap with Symmetra and utilize his shotguns to eliminate her before she can react.
+Genji: Genji can effectively deflect Symmetra's projectiles, making him a significant threat if he gets too close.
