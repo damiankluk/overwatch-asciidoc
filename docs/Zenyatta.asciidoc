@@ -1,0 +1,53 @@
+= Zenyatta
+
+== Description
+Zenyatta is a support hero in Overwatch, known for his harmonious presence on the battlefield. He is a member of the Shambali, a group of robotic monks who seek to promote understanding and peace through meditation and healing. Zenyatta's journey led him to leave the Shambali monastery, where he learned to embrace the struggles of humanity and assist them in their quest for harmony. His philosophical approach combines mechanical prowess and a deep understanding of the human experience, making him a pacifist with a powerful arsenal of orbs and abilities to aid his allies.
+
+== Abilities
+
+Orb of Destruction: Zenyatta fires orbs of energy at enemies, dealing damage. (Cooldown: None, Damage: 48 per orb)
+
+Orb of Harmony: Zenyatta targets an ally, granting them increased healing over time. (Cooldown: None, Healing: 30 health per second)
+
+Orb of Discord: Zenyatta targets an enemy, marking them to receive extra damage from all sources. (Cooldown: None, Damage Amplification: 30%)
+
+Transcendence: Zenyatta enters an invulnerable state, healing all nearby allies instantly while preventing them from taking damage for a short duration. (Cooldown: 220 seconds, Duration: 6 seconds)
+
+== Stats
+
+Health: 150
+Armor: 0
+Shields: 0
+Movement Speed: 50%
+Critical Hit Multiplier: 2x
+
+== Strategy
+Zenyatta excels in supporting his team from a distance while providing both healing and damage amplification. In team fights, prioritize placing Orb of Harmony on frontline allies who are engaging or taking damage. Use Orb of Discord to mark priority threats, allowing your team to focus down high-value targets quickly. During clashes, activate Transcendence to counter heavy damage ultimates or when your team is about to be overwhelmed. Avoid facing enemies directly, as Zenyatta is vulnerable to aggressive flanks.
+
+== Pros and Cons
+
+Pros:
+* Can heal and damage simultaneously, providing versatile support.
+* Has strong damage output, able to eliminate threats quickly.
+* Transcendence can turn the tide in fights and is a great counter to burst damage.
+
+Cons:
+* Low mobility and health makes him easy to kill if out of position.
+* Vulnerable to flanks and burst damage, especially from dive heroes.
+* Requires good aim and positioning to be effective with his orbs.
+
+== Counters
+
+Reaper: Zenyatta is particularly vulnerable to Reaper due to his ability to close the distance quickly and deal heavy damage to low-health heroes.
+
+Genji: His mobility allows Genji to dodge Zenyatta's orbs and engage him directly, making it hard for Zenyatta to escape.
+
+Pharah: While Zenyatta can deal damage to her, he struggles to hit targets in the air with his orbs, allowing Pharah to freely attack from above.
+
+== Countered By
+
+Tracer: Tracer's speed and agility allow her to easily dodge Zenyatta's attacks, and her high burst damage can take him down quickly.
+
+Doomfist: His ability to engage quickly and deal significant burst damage can eliminate Zenyatta before he can react or utilize Transcendence effectively.
+
+Widowmaker: With a skilled aim, Widowmaker can pick off Zenyatta from a distance, especially since he has no shields or armor to protect him.
