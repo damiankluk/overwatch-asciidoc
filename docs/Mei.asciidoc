@@ -1,0 +1,43 @@
+= Mei
+
+== Description
+Mei is a cunning scientist from China who utilizes cryotechnology to manipulate ice and snow. Once a part of Overwatch's scientific research team, she now fights to preserve the world she loves. Following the decade-long crisis of the Omnic War, Mei became a member of the scientific team in Antarctica. Keeping her past alive, she is determined to fight against those who threaten the planet and its environment.
+
+== Abilities
+
+Cryo-Freeze: Mei encases herself in a block of ice, becoming invulnerable and healing over time. (Cooldown: 12 seconds)
+Endothermic Blaster: Mei's primary weapon shoots a stream of cold air that can freeze enemies over time. (Damage: 50 per second, freeze after 4 seconds)
+Ice Wall: Mei creates a large, solid wall of ice that can block enemy movement and line of sight. (Cooldown: 10 seconds)
+Blizzard: Mei launches a weather secondary that creates a blizzard in a large area, freezing enemies caught within. (Ultimate, Cooldown: 8 seconds, Damage: N/A)
+
+== Stats
+
+Health: 250
+Armor: 0
+Shields: 0
+Movement Speed: 0.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Mei excels in controlling the battlefield with her abilities. In offensive scenarios, utilize her Endothermic Blaster to freeze enemies and secure kills while positional advantages are maintained. In defensive playstyles, use Cryo-Freeze to heal and form strategic Ice Walls that block enemy paths or protect allies. In team fights, coordinate with teammates to initiate fights with Blizzard, disrupting the enemy's formations and allowing for an easy follow-up.
+
+== Pros and Cons
+
+Pros:
+- Great area control with Ice Wall and Blizzard.
+- Exceptionally good at isolating enemies with freeze mechanics.
+Cons:
+- Limited mobility compared to other DPS heroes.
+- Dependence on proper positioning to maximize her effectiveness.
+
+== Counters
+
+Pharah: Mei can freeze Pharah from the ground with her Endothermic Blaster, denying her aerial mobility.
+Reinhardt: Mei can use Ice Wall to keep Reinhardt's shield from protecting his team, allowing allies to focus on him.
+Genji: The freezing ability can prevent Genji from using his mobility effectively, making him vulnerable.
+
+== Countered By
+
+Tracer: Tracer's high mobility allows her to outmaneuver Mei, dodging her attacks.
+Reaper: Reaper's close-range burst damage can quickly take down Mei before she has time to freeze him.
+Doomfist: Doomfist can easily close the gap and eliminate Mei quickly with his high burst damage, especially when she is isolated from her team.
