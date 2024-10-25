@@ -1,0 +1,46 @@
+= Pharah
+
+== Description
+Pharah, whose real name is Fareeha Amari, is a damage hero in Overwatch known for her exceptional aerial mobility and powerful rocket launchers. Raised in a military family, Pharah always aspired to become a hero just like her mother, Ana Amari. With her advanced jetpack technology, she can perform vertical maneuvers, raining havoc on enemies from above while staying mostly out of reach. Pharah is driven by a desire to protect her community and honor her family's legacy, believing that duty and responsibility guide her actions.
+
+== Abilities
+
+Rocket Launcher: Launches a rocket that deals damage on impact and has a splash effect. (Cooldown: N/A, Damage: 120 direct damage, 40 splash damage)
+Concussive Blast: Fires a concussive blast that can knock back enemies and propel Pharah upwards. (Cooldown: 8 seconds, Damage: 0)
+Jet Pack: Allows Pharah to fly and maneuver in the air for a limited duration. (Cooldown: N/A, Duration: 5 seconds)
+Barrage: Unleashes a barrage of rockets in a cone in front of her, dealing massive damage to enemies caught in the blast. (Cooldown: 10 seconds, Damage: 100 per rocket)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Pharah excels at aerial engagements and should be utilized to flank and harass enemies from above. In offense, she can capitalize on her mobility to pick off squishy targets and disrupt enemy backlines. On defense, Pharah can deter pushes from above, forcing opponents to reposition or focus fire, which she can evade with her jetpack. During team fights, situational awareness is vital as Pharah can be vulnerable while using Barrage; thus, timing and positioning are crucial to maximize damage without being taken down.
+
+== Pros and Cons
+
+Pros:
+* High burst damage potential with her ultimate ability.
+* Strong aerial mobility makes her difficult to hit.
+* Can control the battlefield by targeting enemy support heroes safely from above.
+
+Cons:
+* Vulnerable to hitscan heroes and certain crowd control abilities.
+* Requires good positioning and map awareness to maximize effectiveness.
+* Ability to engage is limited by the need for line of sight.
+
+== Counters
+
+Reaper: Pharah's aerial nature makes her a prime target for Reaper's close-range, powerful shotguns.
+Genji: His mobility allows him to evade her attacks and quickly close distance, getting in close to deliver fatal damage.
+Torbjörn: His turret can easily target Pharah when in line of sight, limiting her ability to stay airborne safely.
+
+== Countered By
+
+Bastion: In sentry mode, Bastion has the firepower to obliterate Pharah before she can react.
+Soldier: 76: His hitscan weapon makes him highly effective in dealing damage against characters like Pharah who are airborne.
+Widowmaker: As a skilled sniper, she can capitalize on Pharah's height and lacks mobility while using her abilities.
