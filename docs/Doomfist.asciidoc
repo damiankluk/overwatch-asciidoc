@@ -1,0 +1,46 @@
+= Doomfist
+
+== Description
+Doomfist is a former member of Talon and a key figure in the organization. His real name is Akande Ogundimu, and he possesses immense power and combat expertise. After losing his arm in a coup, he was fitted with a powerful prosthetic that enhances his punching strength, allowing him to deliver devastating blows. He believes in the survival of the fittest and seeks to reshape the world in his image. While his methods are brutal, his charisma draws followers who share his vision.
+
+== Abilities
+
+Rocket Punch: Charge forward, smashing into the first enemy you hit and knocking them back (Cooldown: 3 seconds, Damage: 50-250 depending on charge distance).
+Seismic Slam: Leap in the air and slam to the ground, dealing damage in an area around you (Cooldown: 5 seconds, Damage: 50).
+Power Block: Absorb incoming damage and empower your next Rocket Punch (Cooldown: 4 seconds).
+Meteor Strike: After a brief wind-up, launch into the air and crash down at a target location, dealing damage to enemies in the area (Cooldown: 120 seconds, Damage: 300).
+
+== Stats
+
+Health: 250
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Doomfist excels in flanking and engaging backline support and damage heroes. Utilizing Rocket Punch for high-impact kills can quickly shift the momentum of a team fight. Power Block is essential for mitigating damage before engaging, while Seismic Slam provides mobility and situational awareness. In team fights, coordinate with your allies for optimal targets when using Meteor Strike. Avoid front-line brawling unless necessary, and rely on agility and surprise to secure kills.
+
+== Pros and Cons
+
+Pros:
+- High burst damage potential.
+- Exceptional mobility with abilities.
+- Can disrupt enemy formations and isolate targets.
+
+Cons:
+- Requires good aim and timing to maximize effectiveness.
+- Susceptible to crowd control and focused fire.
+- Lacks sustained damage output.
+
+== Counters
+
+- Tracer: Doomfist can knock Tracer away or out of position, making her mobility work against her.
+- Mercy: If Doomfist engages quickly, he can eliminate Mercy before she can react to resurrect allies.
+- Mei: Doomfist can swiftly eliminate Mei before she uses her freeze ability, especially when engaging from behind.
+
+== Countered By
+
+- Winston: Winston can easily dive onto Doomfist, using his mobility to avoid Rocket Punch and close the distance quickly.
+- Reaper: Reaper’s close-range damage output can overwhelm Doomfist, especially when he tries to re-engage after using his abilities.
+- Sombra: Sombra can hack Doomfist, disabling his abilities and making him vulnerable to follow-up damage.
