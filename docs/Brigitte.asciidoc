@@ -1,0 +1,44 @@
+= Brigitte
+
+== Description
+Brigitte Lindholm is a Support hero in Overwatch known for her ability to bolster her teammates and shield them from harm. The daughter of Torbjörn and the goddaughter of Reinhardt, Brigitte grew up in the shadow of great heroes. Inspired by Reinhardt's valor and commitment to protecting others, she joined the fight herself, designing her own armor and weapons. Brigitte is a versatile support character who can heal allies, provide armor, and engage in melee combat.
+
+== Abilities
+
+*Barrier Shield*: A shield that blocks incoming damage. (Cooldown: N/A, Damage: N/A)
+*Repair Pack*: Heals a target for a specified amount and grants temporary armor. (Cooldown: 6 seconds, Healing: 150, Armor: 75)
+*Whip Shot*: Strikes enemies with her flail from a distance, dealing damage and knocking them back. (Cooldown: 6 seconds, Damage: 70)
+*Shield Bash*: A powerful dash that stuns enemies while providing movement. (Cooldown: 6 seconds, Damage: 50)
+*Rally*: A powerful ultimate ability that grants temporary armor to all allies within range. (Cooldown: 0 seconds, Armor: +75, Duration: 30 seconds)
+
+== Stats
+
+Health: 250
+Armor: 50
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Brigitte excels in protecting allies and disrupting enemies. In team fights, she should focus on staying near high-value targets and utilizing her healing abilities effectively. When on offense, she can engage with enemies using Shield Bash and follow up with Whip Shot to create distance between her and the enemy. On defense, use her Barrier Shield to block incoming fire for teammates and focus on healing and applying crowd control with her abilities.
+
+== Pros and Cons
+
+Pros:
+*Strong healing output for teammates.
+*Can stun enemies, providing crowd control.
+Cons:
+*Limited range on healing and damage abilities.
+*Can struggle against high-mobility enemy heroes.
+
+== Counters
+
+*Reaper*: Brigitte's armor packs counter Reaper’s damage output.
+*Wrecking Ball*: Can prevent Wrecking Ball from effectively disrupting the backline.
+*Bastion*: Brigitte can shield her allies and engage from close range to disrupt Bastion.
+
+== Countered By
+
+*Pharah*: Brigitte struggles to hit airborne targets effectively with her melee-focused abilities.
+*Genji*: Can easily outmaneuver and avoid Brigitte’s skill shots.
+*Sombra*: Can disable Brigitte’s abilities with her hacks, leaving her vulnerable.
