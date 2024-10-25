@@ -1,0 +1,47 @@
+= Soldier: 76
+
+== Description
+Soldier: 76 is a versatile, damage-dealing hero whose abilities make him effective for both beginners and veterans alike. Once known as Jack Morrison, he was a commanding figure in Overwatch, leading the organization against its enemies. After the organization's disbandment, he became a vigilante, fighting for justice and uncovering the truth behind Overwatch's downfall. With a focus on traditional military tactics and technology, Soldier: 76 serves as a point of reference for other heroes, boasting a straightforward combat style.
+
+== Abilities
+
+Heavy Pulse Rifle: A fully automatic rifle with a high rate of fire. (Damage: 20 per shot, Rate of Fire: 9.1 RPS)
+Helix Rockets: Fires a volley of explosive rockets that deal damage in a small area. (Cooldown: 8 seconds, Damage: 120)
+Biotic Field: Deploys a field that heals nearby allies for a limited duration. (Cooldown: 25 seconds, Healing: 40 health per second)
+Sprint: Allows Soldier: 76 to move quickly for a short time, enabling escape or repositioning. (Cooldown: None)
+ Tactical Visor: Automatically aims at enemies in line of sight for a short duration. (Ultimate, Duration: 6 seconds)
+
+== Stats
+
+Health: 200
+Armor: None
+Shields: None
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Soldier: 76 thrives in mid-range engagements, making him suitable for both offensive and defensive playstyles. Utilize the Heavy Pulse Rifle for sustained damage, especially while strafe-dodging incoming fire. Use Helix Rockets to deal burst damage to enemies, especially while catching them off guard. Biotic Field is essential for self-sustain and can be a lifesaver in team fights or when pushed by enemies. During ultimate ability deployment, position yourself in a safe spot to maximize kills. Engage in high-ground fights to control the battlefield effectively.
+
+== Pros and Cons
+
+Pros:
+- Versatile and easy to play, making him beginner-friendly.
+- Capable of self-healing, adding durability.
+- Strong at mid-range engagements with a good damage output.
+
+Cons:
+- Lacks mobility compared to other damage heroes.
+- Can be countered by heroes with burst damage.
+- Tactical Visor can be interrupted if not properly positioned.
+
+== Counters
+
+Reaper: His close-range combat capabilities allow him to quickly burst down Soldier: 76.
+Pharah: Soldier: 76's damage output struggles against airborne targets like Pharah, who can remain out of the effective engagement range.
+Tracer: Her high mobility and speed make it challenging for Soldier: 76 to track and hit her consistently.
+
+== Countered By
+
+Genji: His deflect ability can turn Soldier: 76's shots against him, particularly when utilizing Tactical Visor.
+Widowmaker: As a long-range sniper, Widowmaker can out-range Soldier: 76, quickly eliminating him before he can retaliate.
+Hanzo: Hanzo's high burst damage and mobility can take down Soldier: 76 before he can react effectively.
