@@ -1,0 +1,60 @@
+```
+= D.Va
+
+== Description
+D.Va, real name Hana Song, is a professional gamer turned mech pilot from South Korea. After gaining fame as a top StarCraft player, she was recruited into the Mobile Exo-Force of the Korean Army (MEKA) to combat the Omnic threat. With her mech's advanced technology, D.Va uses her skills to protect her country and maintain her status as a celebrity. She is known for her confident personality, streamers, and her dedication to her team's success in battle. D.Va fights to protect her teammates while constantly showing off her skills both in and out of combat.
+
+== Abilities
+
+BOOSTERS: D.Va propels herself forward using her boosters, allowing her to quickly close the distance between her and enemies or escape dangerous situations. (Cooldown: 5 seconds)
+
+FUSION CANNONS: D.Va's primary weapon, these twin arm-mounted cannons deal damage in a wide spread but have a limited range. (Damage: 204 per second)
+
+DEFENSE MATRIX: D.Va activates her Defense Matrix, creating a large barrier that absorbs incoming projectiles and damages for a limited time. (Cooldown: 1 second, Duration: 2 seconds)
+
+SELF-DESTRUCT: D.Va ejects from her mech and sets it to self-destruct, dealing massive damage in an area. (Cooldown: 5 minutes, Damage: up to 1000)
+
+MECH CALL: D.Va can call her mech back to her after being ejected. (Cooldown: 3 seconds)
+
+== Stats
+
+Health: 400 (200 health and 200 armor)
+Armor: 200
+Shields: 0
+Movement Speed: 250
+Critical Hit Multiplier: 2.0
+
+== Strategy
+D.Va excels in team fights and can be played both defensively and offensively. In offensive scenarios, utilize Boosters to dive onto enemy supports or high-value targets, using Fusion Cannons to damage them quickly. In defensive play, she's able to protect her teammates with Defense Matrix, absorbing critical incoming damage. 
+
+During the ultimate phase, use Self-Destruct in crowded area to create space for the team or to secure elimination of key targets. Always be mindful of positioning so you can call your mech back promptly in case you are ejected.
+
+== Pros and Cons
+
+Pros:
+* High mobility allows for quick repositioning.
+* Ability to absorb damage with Defense Matrix.
+* Versatile in both offensive and defensive scenarios.
+* Can contest objectives with high survivability.
+
+Cons:
+* Vulnerable when out of her mech.
+* Fusion Cannons have limited range.
+* Requires good awareness and positioning to be effective.
+
+== Counters
+
+Reaper: D.Va's low range on her primary weapon makes it difficult to engage Reaper, who can mass damage in close-range proximity.
+
+Bastion: D.Va's Defense Matrix can significantly mitigate Bastion's damage, allowing her to counter his stationary mode effectively.
+
+Pharah: D.Va can chase down Pharah with her mobility, but should be careful of getting picked off before reaching her.
+
+== Countered By
+
+McCree: His high damage output and stun with Flashbang can incapacitate D.Va quickly, leading to a swift kill.
+
+Roadhog: Roadhog can hook D.Va out of her mech, making her an easy target for his high burst damage.
+
+Zarya: Zarya can easily counter D.Va by using her Graviton Surge to immobilize her and her mech, allowing teammates to deal damage while D.Va is unable to escape.
+```
