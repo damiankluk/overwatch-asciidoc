@@ -1,0 +1,57 @@
+```asciidoc
+= Junker Queen
+
+== Description
+Junker Queen is a tank hero from the Australian Outback, leading the story of the Junkers, a band of scavengers in a post-apocalyptic world. Known for her fierce and commanding presence, she embodies the ruthless nature of her environment. As the leader of the Junkers, she upholds a brutal code of honor, often wielding her weaponry not just to kill but to assert dominance over others. Her lore intertwines with the wider narrative of Overwatch, as she opposes various threats to her territory while striving to unite the disparate factions of the Australian wasteland.
+
+== Abilities
+
+Rampage: Charge forward, slashing all enemies in your path. Enemies hit are inflicted with wounds, which prevents healing for a short duration. (Cooldown: 15 seconds, Damage: 100)
+
+Jagged Blade: A versatile weapon that can be thrown at enemies, dealing damage on impact. Retrieve the blade for healing. (Cooldown: 6 seconds, Damage: 80)
+
+Commanding Shout: Rally your allies, increasing their maximum health temporarily and providing health regeneration for a short period. (Cooldown: 12 seconds, Effect: +100 health, Heal rate: 50 health per second)
+
+Carnage: Swing your axe in a wide arc, damaging all enemies in front of you. (Cooldown: 8 seconds, Damage: 75)
+
+Healing: Passive ability that allows you to heal for a percentage of the damage you deal with your abilities.
+
+== Stats
+
+Health: 300
+Armor: 200
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Junker Queen excels at disrupting the enemy frontline, making her an effective aggressive tank. In offense scenarios, use Rampage to lead the charge, followed by Commanding Shout to enhance your team's survivability. While engaging in team fights, use Carnage effectively to deal area damage while allowing your allies to capitalize on disoriented foes. On defense, utilize Jagged Blade to counter flanking enemies and maintain your health with the healing aspect. Always position yourself to protect your teammates while absorbing damage.
+
+== Pros and Cons
+
+Pros:
+- Strong area-of-effect damage capabilities
+- Self-sustain through healing
+- Excellent crowd control with her abilities
+
+Cons:
+- Can be vulnerable to burst damage due to a lack of shields
+- Requires the player to be actively engaged in fights to maximize effectiveness
+- Space management is crucial, as she thrives in melee range
+
+== Counters
+
+Reinhardt: Junker Queen's close-range attacks can easily overwhelm Reinhardt's barrier, applying consistent pressure and forcing him to make unfavorable decisions.
+
+Wrecking Ball: His ability to displace and confuse the enemy can interrupt Junker Queen's flow in battle, making it hard for her to utilize her abilities efficiently.
+
+Roadhog: His self-healing and high burst potential can negate the effectiveness of Junker Queen's abilities, especially if he hooks her before she can retaliate.
+
+== Countered By
+
+Ana: Her healing abilities can negate Junker Queen's healing from damage, making it difficult for her to sustain herself in fights.
+
+Pharah: With vertical mobility and ranged attacks, Pharah can stay out of Junker Queen's reach, whittling her health down from a distance.
+
+Mei: Mei's freezing ability can incapacitate Junker Queen, preventing her from utilizing her kit effectively in close quarters, especially if caught off-guard.
+```
