@@ -1,0 +1,54 @@
+= Cassidy
+
+== Description
+Cassidy, formerly known as McCree, is a former member of the Deadlock Gang and a skilled gunslinger. He joined Overwatch as part of Blackwatch, where he served under Gabriel Reyes (Reaper). Cassidy embodies the archetype of the lone gunslinger, combining a rough-and-tumble attitude with a strong sense of justice. After Overwatch's disbandment, he wandered the world, taking on jobs that aligned with his moral code. He wields a revolver and is known for his exceptional aim and deadly speed.
+
+== Abilities
+
+Peacekeeper: Cassidy's sidearm, capable of dealing 70 damage with a single shot. He can fire six rounds before needing to reload, which takes 1.5 seconds. A headshot deals 210 damage. 
+(Cooldown: N/A, Damage: 70 / 210)
+
+Combat Roll: Cassidy rolls in the direction he is moving, instantly reloading his revolver. This ability allows him to dodge incoming attacks while replenishing his ammunition. 
+(Cooldown: 8 seconds)
+
+Flashbang: Cassidy throws a flashbang that detonates after a brief delay or upon impact. Enemies hit are temporarily stunned, allowing Cassidy to follow up with deadly shots. 
+(Cooldown: 6 seconds, Damage: 0)
+
+Dead Eye: After a brief channeling period, Cassidy locks onto enemies in his line of sight. He can eliminate enemies with a single headshot or multiple enemies if he fully locks onto them. 
+(Cooldown: 200 seconds, Damage: 360 or instant elimination)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 50%
+Critical Hit Multiplier: 2x
+
+== Strategy
+Cassidy excels in mid-range combat. Positioning is key; utilize walls and high ground to flank enemies. In team fights, strategically use Flashbang to stun key targets, allowing for easy eliminations. Use Combat Roll to dodge serious threats or reposition. Save Dead Eye for when you have an advantageous position, perhaps using it from an unexpected angle for maximum impact.
+
+== Pros and Cons
+
+Pros:
+- High damage output with precise aim.
+- Effective crowd control with Flashbang.
+- Good mobility with Combat Roll.
+- Dead Eye can swing team fights.
+
+Cons:
+- Vulnerable to dive characters due to lack of mobility.
+- Requires good positioning to maximize damage.
+- Flashbang can be countered or avoided.
+
+== Counters
+
+Bastion: Cassidy can effectively counter Bastion in Sentry mode through his high damage shots and ability to roll away if needed.
+Reaper: Cassidy can out-range Reaper and use Flashbang to stun him before dealing lethal damage.
+Winston: Cassidy can deal substantial damage from a distance while avoiding Winston's attacks.
+
+== Countered By
+
+Doomfist: His mobility and ability to initiate fights can easily disrupt Cassidy, capitalizing on his low mobility.
+Pharah: Cassidy struggles against Pharah due to her aerial positioning and splash damage.
+Tracer: Tracer's speed and blinking ability can outmaneuver Cassidy, making it difficult for him to land shots.
