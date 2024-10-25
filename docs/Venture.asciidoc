@@ -1,0 +1,46 @@
+= Venture
+
+== Description
+Venture is a highly agile and versatile hero in Overwatch, known for their ability to manipulate space and time to outmaneuver opponents. Hailing from a covert organization, Venture utilizes their prowess in engineering and advanced technology to create gadgets that aid allies and disrupt enemies. With a background steeped in espionage, Venture seeks to bring balance to the chaotic world of Overwatch by using their skills to support their team in various ways.
+
+== Abilities
+
+*Phase Shift*: Venture momentarily phases out of reality, allowing them to dodge incoming attacks and reposition. (Cooldown: 8 seconds, Duration: 2 seconds)
+
+*Gadget Deployment*: Deploys a gadget that provides various buffs to allies within its range, such as increased movement speed or reduced cooldowns. (Cooldown: 15 seconds)
+
+*Temporal Strike*: A melee attack that deals high damage and temporarily slows enemies hit. (Cooldown: 10 seconds, Damage: 80)
+
+*Ultimate - Time Distortion*: Venture manipulates time in a localized area, slowing all enemies caught within it while enhancing ally movement speed. (Duration: 5 seconds, Radius: 10 meters)
+
+== Stats
+
+Health: 200  
+Armor: 50  
+Shields: 0  
+Movement Speed: 6 m/s  
+Critical Hit Multiplier: 2x
+
+== Strategy
+Venture excels in roles that require mobility and support. In offensive scenarios, use Phase Shift to navigate through enemy lines and initiate fights, followed by Gadget Deployment to empower your team. On defense, place your gadgets strategically to maximize their effect during choke points. In team fights, utilize Temporal Strike to disrupt enemy formations, followed by the Ultimate to control the battlefield and provide a clear advantage for your team.
+
+== Pros and Cons
+
+Pros:
+* High mobility makes it difficult for enemies to pin down.
+* Versatile abilities that support both offensive and defensive play.
+Cons:
+* Relatively low health pool makes Venture vulnerable to burst damage.
+* Requires good positioning and timing to maximize effectiveness.
+
+== Counters
+
+*Reaper*: Venture’s mobility can evade Reaper’s close-range damage, while Gadget Deployment can negate his lifesteal.
+*Sombra*: Venture can phase out of Sombra’s hacks, making it challenging for her to disable their abilities.
+*Zarya*: Gadget Deployment can reduce the impact of Zarya's projectiles, allowing teammates to stand their ground in the face of her charge.
+
+== Countered By
+
+*Widowmaker*: Venture's reliance on movement can be exploited by Widowmaker’s sniper capabilities, especially in open areas.
+*McCree*: McCree’s flashbang can counter Venture’s mobility, leaving them vulnerable to follow-up attacks.
+*Bastion*: Bastion’s high DPS output can quickly eliminate Venture, especially if they are caught without their mobility abilities available.
