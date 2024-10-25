@@ -1,0 +1,45 @@
+= Roadhog
+
+== Description
+Roadhog, whose real name is Mako Rutledge, is a hulking figure from the wastelands of Australia. Once a scrapyard worker before the Omnic Crisis, he turned to a life of banditry after the fall of his homeland. Combining strength and ruthlessness, Roadhog is known for his brutal tactics and is part of the Overwatch universe as a member of the Null Sector. He has a deep connection to his massive chain hook, which he uses to drag enemies close to him, allowing him to unleash devastating close-range attacks. 
+
+== Abilities
+
+Chain Hook: Throws a chain hook that pulls in an enemy and stuns them for a short time. (Cooldown: 8 seconds, Damage: 30)
+Scrap Gun: A shotgun-like weapon that deals high damage at close range and deals less damage at a distance. Fires up to 6 shots in quick succession. (Damage: 50)
+Take a Breather: Roadhog heals himself for a significant amount of health over a short duration. (Cooldown: 8 seconds, Healing: 300)
+Whole Hog: Roadhog's ultimate ability, which transforms his scrapyard gun into a powerful chain gun that fires large scraps, knocking back enemies and dealing damage. (Duration: 6 seconds, Damage: 200)
+
+== Stats
+
+Health: 600
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+Roadhog excels in both offense and defense due to his self-sustain and ability to control the battlefield. During team fights, he should focus on flanking and picking off isolated enemies with his Chain Hook to reposition them for a Scrap Gun finish. Utilize Take a Breather wisely to survive trades and maintain pressure. During offensive pushes, make sure to use Whole Hog to clear out clustered enemies and create space for teammates. His resilience makes him ideal for holding objectives or contesting points, especially when the enemy team is low on resources.
+
+== Pros and Cons
+
+Pros:
+- High health pool makes him difficult to kill.
+- Strong self-sustain with Take a Breather.
+- Ability to hook and eliminate key targets quickly.
+Cons:
+- Limited range with the Scrap Gun makes positioning crucial.
+- Relatively slow movement can make him vulnerable to dives.
+- No mobility abilities, making him susceptible to being outmaneuvered.
+
+== Counters
+
+Reinhardt: Roadhog's hook can pull in Rein, exposing him to critical damage.
+Bastion: His high health can withstand Bastion, and he can hook him out of sentry form.
+Torbjörn: Roadhog can easily deal with Torbjörn’s turret by using his abilities to pull them away or overpower them.
+
+== Countered By
+
+Pharah: Her vertical mobility allows her to stay out of Roadhog's effective Scrap Gun range.
+Winston: His mobility and ability to dive in and out make it challenging for Roadhog to capitalize on his hook.
+Sombra: Sombra can hack Roadhog, negating his abilities and leaving him vulnerable for teammates to finish off.
