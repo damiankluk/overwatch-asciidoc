@@ -1,0 +1,43 @@
+= Reinhardt
+
+== Description
+Reinhardt is a tank hero in Overwatch known for his towering presence and unwavering determination to protect his allies. He hails from Germany and was a key member of the Overwatch organization, embodying the ideals of courage and honor. His towering suit of powered armor, the Crusader, allows him to charge forward in battle, creating a shield for his teammates. Reinhardt's lore reflects his noble character and his commitment to standing firm against evil, even as the world evolved and Overwatch was disbanded. He longs to restore the sense of camaraderie and justice that Overwatch represented.
+
+== Abilities
+
+Charge: Reinhardt charges forward, pinning enemies against a wall and dealing massive damage. (Cooldown: 8 seconds, Damage: 300)
+Fire Strike: Reinhardt swings his hammer in a fiery arc, damaging all enemies in its path. (Cooldown: 8 seconds, Damage: 100)
+Barrier Field: Reinhardt deploys a large barrier that absorbs damage for a short time, protecting teammates behind him. (Cooldown: 0 seconds, Shields: 2000)
+Earthshatter: Reinhardt slams his hammer into the ground, stunning enemies in front of him and knocking them down. (Ultimate; Cooldown: 0 seconds, Damage: 0, Duration: 2 seconds)
+
+== Stats
+
+Health: 300
+Armor: 200
+Shields: 0 (Barrier Field provides temporary shields)
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Reinhardt thrives in team-oriented scenarios, acting as a protector for damage dealers and support. When on offense, he should lead the charge, utilizing his Barrier Field to shield allies while pushing toward objectives. During defense, positioning is key; holding chokepoints with his barrier can neutralize incoming threats effectively. In team fights, focus on using Earthshatter to disable multiple enemies, creating opportunities for your team to capitalize on.
+
+== Pros and Cons
+
+Pros:
+* Excellent at absorbing damage with his Barrier Field.
+* Can initiate fights and create openings with Charge and Earthshatter.
+Cons:
+* Vulnerable to flankers if not properly supported.
+* Limited mobility while using the Barrier Field, making him susceptible to ranged attacks.
+
+== Counters
+
+* Winston: His mobility can allow him to bypass Reinhardt's shield and deal damage to him directly.
+* Reaper: Can effectively deal high burst damage to Reinhardt at close range, especially when he is shielded.
+* Pharah: Reinhardt's shield cannot protect against aerial attacks, making her a strong counter.
+
+== Countered By
+
+* Mei: Can freeze Reinhardt in place with her Ice Blast, making him an easy target.
+* Symmetra: Can destroy Reinhardt's Barrier Field quickly with her beams, overwhelming him.
+* Genji: His swift movements and ability to climb walls allow him to avoid Reinhardt’s attacks and harass him from behind.
