@@ -1,0 +1,53 @@
+= Wrecking Ball
+
+== Description
+Wrecking Ball, whose real name is Hammond, is a genetically engineered hamster who utilizes a multi-environment adaptive battle mech. He was originally experimented on in the Horizon Lunar Colony before escaping to Earth. Adapting quickly, Hammond modified his mech for combat and transformed into Wrecking Ball, becoming a freedom fighter and a force to be reckoned with. With a penchant for rolling and swinging, he excels in mobility and disruption on the battlefield, turning him into an unexpected powerhouse in Overwatch.
+
+== Abilities
+
+Roll: Wrecking Ball transforms into a ball, increasing his movement speed. (Cooldown: None, Damage: None)  
+Grappling Claw: Wrecking Ball fires a grappling hook, swinging around a point to launch into the air or crash down. (Cooldown: 6 seconds, Damage: 50 on impact)  
+Adaptive Shield: Wrecking Ball gains temporary shields based on the number of nearby enemies. (Cooldown: 10 seconds, Shields: 100 + 50 per enemy)  
+Piledriver: Wrecking Ball slams down onto the ground, damaging and knocking enemies back in an area around him. (Cooldown: 10 seconds, Damage: 50)  
+Minefield: Wrecking Ball deploys a field of proximity mines that detonate on enemy contact. (Cooldown: 20 seconds, Damage: 120 per mine)
+
+== Stats
+
+Health: 150  
+Armor: 100  
+Shields: None  
+Movement Speed: 6 m/s  
+Critical Hit Multiplier: 2x  
+
+== Strategy
+Wrecking Ball excels in mobility, positioning himself in a way to disrupt the enemy team effectively. In offensive scenarios, players should utilize Grappling Claw to swing into enemy groups and use Piledriver to knock them back and create chaos. Adaptive Shield is crucial for surviving engagements, especially when surrounded by enemies. 
+
+On defense, Wrecking Ball can use Minefield to zone enemies from objectives, making it risky for them to approach. His speed allows him to traverse the battlefield quickly, which is useful in creating local distractions or picking off isolated foes.
+
+During team fights, make use of your mobility to flank and create opportunities for your team. Activate Adaptive Shield before diving into enemy lines to increase your survivability.
+
+== Pros and Cons
+
+Pros:
+- High mobility allows for dynamic positioning.
+- Capable of disrupting enemy formations with Piledriver.
+- Creates zones with Minefield that can control battlefield flow.
+- Adaptive Shield scales with nearby enemies, allowing him to survive against crowd control.
+
+Cons:
+- Vulnerable to focused fire, especially when caught alone.
+- Can be difficult to master effectively; requires practice to land skills.
+- Competes for space with other tanks, which may lead to misunderstandings in team composition.
+
+== Counters
+
+Reinhardt: Wrecking Ball can disrupt Reinhardt’s barrier and leverage mobility to attack his backline while avoiding direct confrontations.  
+Orisa: Orisa's Fortify allows her to withstand the initial impact but Wrecking Ball can outmaneuver her, especially using Piledriver to counter her stationary position.  
+Mei: Wrecking Ball can dodge Mei's ice attacks with his mobility, allowing for aggressive engagements while also using Piledriver to punish her if caught.
+
+== Countered By
+
+Moira: Moira's Fade ability allows her to escape Wrecking Ball's engage and withstand damage while her life siphon can counter tanky heroes like him.  
+Sigma: Sigma can use his Kinetic Grasp to absorb Wrecking Ball's projectile attacks, making him an effective counter with his zoning abilities.  
+Bastion: In Sentry mode, Bastion can output an immense amount of fire on Wrecking Ball when he tries to engage, especially if Bastion is well-positioned.
+
