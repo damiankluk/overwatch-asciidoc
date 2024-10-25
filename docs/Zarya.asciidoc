@@ -1,0 +1,57 @@
+= Zarya
+
+== Description
+Zarya, also known as Aleksandra Zaryanova, is a tank hero from Russia. She is known for her unyielding strength and dedication to her homeland. A former weightlifter and champion, Zarya was inspired by the need to protect her people and has become one of the strongest defenders of her country. Her commitment to ending threats at any cost drives her to wield her powerful weaponry with precision and skill, creating protective barriers for her allies while dealing massive damage to opponents.
+
+== Abilities
+
+Barrier Projectile: Zarya fires a projectile that deals 40 damage upon impact. (Cooldown: 10 seconds)
+
+Particle Barrier: Zarya can project a barrier around herself or an ally, absorbing damage for a short time. Any damage absorbed is converted into energy, increasing the power of her weapon. (Cooldown: 10 seconds)
+
+Graviton Surge: Zarya launches a gravity bomb that creates a black hole effect, pulling all nearby enemies into a single point for 4 seconds. (Cooldown: 40 seconds)
+
+Energy: Zarya's primary weapon, a particle cannon, deals 85 damage per second at close range and 5 damage per second at a distance. The damage increases as she absorbs damage through her barriers.
+
+== Stats
+
+Health: 400
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Zarya excels at team fights where she can utilize her abilities in conjunction with her allies. To maximize her effectiveness:
+- Use Particle Barrier to absorb damage from high priority targets, ideally redirecting it to your own weapon energy.
+- Coordinate Graviton Surge with high-damage ultimates from teammates like Reaper or Pharah to eliminate clustered enemies.
+- Play smart; don't overlap your barriers too closely with teammates, allowing for maximum efficiency.
+- Positioning is key; stay in the front lines to absorb damage while still protecting your backline.
+
+== Pros and Cons
+
+Pros:
+- Excellent at absorbing damage and protecting teammates.
+- Can deal high damage with optimal energy management.
+- Graviton Surge can change the tide of a game.
+
+Cons:
+- Requires good timing and positioning to fully utilize barriers.
+- Can be easily countered if caught off-guard.
+- Dependent on receiving damage to maximize her effectiveness.
+
+== Counters
+
+Reaper: Zarya can outlast Reaper in close combat as she absorbs his damage with her Particle Barrier, enhanced by her own energy.
+
+Pharah: Zarya's Particle Cannon has good range, and her ability to shield herself helps her survive Pharah's barrage while dealing damage back.
+
+D.Va: Zarya's barriers make her a strong counter to D.Va’s rockets, and she can outdamage D.Va if she maintains high energy.
+
+== Countered By
+
+Hanzo: Hanzo's high burst damage can quickly take down Zarya before she can react or absorb enough damage.
+
+Bastion: In Sentry mode, Bastion can shred through Zarya’s health pool quickly, making her a vulnerable target if caught out.
+
+Roadhog: Zarya is susceptible to Roadhog’s Hook, as it can pull her out of position and secure easy kills with his burst damage.
