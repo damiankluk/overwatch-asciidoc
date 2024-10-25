@@ -1,0 +1,51 @@
+= Bastion
+
+== Description
+Bastion is a robotic hero in Overwatch, known for its unique ability to transform into a powerful turret. Once a part of the Omnic Crisis, Bastion served as a weapon of destruction during the conflict. However, after the war, Bastion deactivated and entered a peaceful, contemplative state for decades. In recent times, it has reawakened amidst ongoing warfare, seeking to understand humanity while still wielding significant firepower. With its adaptive capabilities, Bastion is both a symbol of the technological conflict and a tool for change.
+
+== Abilities
+
+**Configuration: Recon**: Bastion's default mode, allowing it to move and fire semi-automatically at a moderate rate. (Cooldown: None, Damage: 20 per shot)
+
+**Configuration: Sentry**: Bastion transforms into a stationary turret, increasing its fire rate and damage. (Cooldown: None, Damage: 25 per shot)
+
+**Configuration: Tank**: Bastion transforms into a tank for a limited time, firing powerful cannonballs. (Cooldown: 30 seconds, Damage: 205 per shot)
+
+**Self-Repair**: Bastion can repair itself while not taking damage. (Cooldown: 0 seconds, Restores: 75 health per second)
+
+**Recon Transformation**: Bastion can switch between configurations at will. (Cooldown: None, Duration: Instant)
+
+== Stats
+
+Health: 300  
+Armor: 0  
+Shields: 0  
+Movement Speed: 5.5 m/s  
+Critical Hit Multiplier: 2x  
+
+== Strategy
+Bastion excels in holding positions and can deal massive damage when set up properly in Sentry mode. It is best utilized in maps with good sightlines and ambush opportunities. In team fights, positioning is essential; find cover and maintain sightlines while tanking damage for allies. It is important to switch to Recon mode when repositioning or needing mobility. In general, avoid getting flanked and keep an ally close to provide protection.
+
+== Pros and Cons
+
+Pros:
+- High damage output in Sentry mode.
+- Self-repair allows for sustainability when positioned correctly.
+- Versatile with three configurations for various combat situations.
+
+Cons:
+- Vulnerable when not set up in Sentry mode.
+- Easy target for flanking heroes and snipers.
+- Lacks mobility and is reliant on teammates for protection.
+
+== Counters
+
+- **Reaper**: His close-range damage often results in a quick elimination of Bastion in Sentry mode.
+- **Sombra**: Can disable Bastion with her hacking ability, preventing him from transforming or using abilities effectively.
+- **Pharah**: Can stay out of Bastion's effective range while bombing from above, making it difficult for him to retaliate.
+
+== Countered By
+
+- **McCree (Cassidy)**: With his powerful single shots and Flashbang, McCree can quickly stun and eliminate Bastion in Sentry form.
+- **Hanzo**: His high damage output and ability to climb the walls allow him to engage from angles Bastion might not cover well.
+- **Widowmaker**: Her long-range sniper capabilities can easily pick off Bastion before he can react, especially when positioned improperly.
