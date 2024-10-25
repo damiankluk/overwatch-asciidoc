@@ -1,0 +1,52 @@
+= Mauga
+
+== Description
+Mauga is a powerful tank hero from Overwatch, known for his strong presence on the battlefield. Hailing from the islands of Numbani, he was once a part of an elite military unit. His background encompasses themes of loyalty and protection, making him a fierce guardian of his allies. Mauga's journey is defined by his unwavering commitment to defending those in need, using his formidable size and strength to create space and control the flow of the game.
+
+== Abilities
+
+**Rampart**: Mauga spins up his minigun, firing a barrage of bullets at enemies in front of him. (Cooldown: 0 seconds, Damage: 85 per second)
+
+**Fortify**: Mauga braces himself, reducing incoming damage for a short duration. (Cooldown: 8 seconds, Damage Reduction: 50%)
+
+**Power Slam**: Mauga leaps into the air and crashes down onto the ground, dealing area damage and knocking back enemies around him. (Cooldown: 10 seconds, Damage: 120)
+
+**Ultimate - Guardian's Wrath**: Mauga channels his power, temporarily becoming invulnerable while unleashing a powerful barrage of fire from his minigun, dealing immense damage to all enemies caught in the area. (Cooldown: 160 seconds, Damage: 200 per second)
+
+== Stats
+
+Health: 600
+Armor: 150
+Shields: 0
+Movement Speed: 4.5 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Mauga excels in both offensive and defensive scenarios through his strong crowd control and damage mitigation. In offensive pushes, it is essential to lead with Fortify to absorb enemy fire while providing cover for your team. Use Power Slam to disrupt enemy formations and create openings for allies. During team fights, maintaining pressure with Rampart while using physicality to shield squishier teammates is crucial.
+
+On defense, use your size to control choke points and deny space to the enemy. Fortifying during heavy fire allows you to outlast enemies while wearing them down. Remember to use Guardian's Wrath strategically to turn the tide of battle during critical moments or to secure objectives.
+
+== Pros and Cons
+
+Pros:
+- High durability due to health and damage reduction.
+- Strong area control with crowd control abilities.
+- Effective at maintaining positioning and protecting teammates.
+
+Cons:
+- Relatively slow movement speed.
+- Vulnerable to crowd control effects and burst damage.
+- Requires good positioning to maximize ability effectiveness.
+
+== Counters
+
+- **Reaper**: Mauga's high health and armor can absorb Reaper's damage, making him difficult to kill.
+- **Pharah**: Mauga's ability to control space mitigates Pharah's aerial mobility effectively, leading to powerful engagements.
+- **Bastion**: With his powerful minigun and ability to fortify, Mauga can dive in and eliminate Bastion before he can unleash fatal damage.
+
+== Countered By
+
+- **Roadhog**: Roadhog's hook can pull Mauga out of position, exposing him to environmental threats.
+- **Sombra**: Sombra's hacking abilities can disable Mauga's abilities, greatly reducing his effectiveness in battle.
+- **McCree**: McCree's fan the hammer can melt through Mauga's health quickly if caught off-guard.
+
