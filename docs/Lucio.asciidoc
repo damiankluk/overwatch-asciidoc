@@ -1,0 +1,55 @@
+```asciidoc
+= Lucio
+
+== Description
+Lucio is a Brazilian support hero known for his upbeat personality and musical abilities. Once a passionate skateboarder, he became a hero in his community, using his talents to fight against oppressive corporate regimes. His love for music and the people around him defines his character, leading him to use soundwaves to motivate his allies and disrupt his enemies. With an infectious energy and a strong belief in freedom, Lucio uses his skills to heal and boost his teammates on the battlefield.
+
+== Abilities
+
+Sonic Amplifier: Lucio fires a projectile of sound that can deal damage to enemies. (Cooldown: N/A, Damage: 20)
+
+Amp It Up: Lucio temporarily increases the effectiveness of his healing or speed boost. (Cooldown: 12 seconds)
+
+Crossfade: Lucio switches between healing allies or boosting their movement speed. (Cooldown: N/A, Damage: N/A)
+
+Sound Barrier: Lucio creates a shield around himself and nearby teammates, granting temporary shields to absorb damage. (Ultimate Charge: 100%)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 7.0 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Lucio excels in maps with tight spaces and verticality, where he can utilize his wall-ride ability to gain mobility. In offensive scenarios, he can provide speed boosts to help teammates engage or disengage from fights effectively. During defense, Lucio can use his healing abilities to maintain team survivability, particularly in high-pressure situations. For team fights, his Ultimate, Sound Barrier, can negate burst damage from enemy ultimates, allowing your team to push or hold critical points.
+
+== Pros and Cons
+
+Pros:
+- Highly mobile, can traverse the map quickly
+- Provides versatile support with healing and speed boosts
+- Ultimate ability can significantly swing team fights
+
+Cons:
+- Low damage output compared to other heroes
+- Reliant on team positioning to maximize effectiveness
+- Vulnerable when isolated from teammates
+
+== Counters
+
+Reaper: Lucio's speed can help evade Reaper's close-range attacks while providing healing to teammates affected by his damage.
+
+Pharah: Lucio can boost allies to reach high ground and provide support against aerial threats, while using his ranged attacks to deal damage to her.
+
+Doomfist: With his mobility, Lucio can dodge Doomfist's incoming punches and knockbacks while providing movement speed to team members.
+
+== Countered By
+
+McCree: Lucio is vulnerable to McCree's high burst damage, especially in close range, as he can quickly eliminate Lucio before he can effectively heal teammates.
+
+Roadhog: With his ability to one-shot burst Lucio with a great hook, Roadhog can easily counter Lucio's mobility and support play.
+
+Zenyatta: Zenyatta's Orb of Destruction can deal substantial damage to Lucio, especially if he is unable to escape, making it challenging for him to support his team effectively.
+```
