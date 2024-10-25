@@ -1,0 +1,46 @@
+= Moira
+
+== Description
+Moira O'Deorain is a geneticist and a former member of Talon, known for her controversial research in the field of biotics. Raised in Ireland, Moira's pursuit of knowledge drove her to experiment with both light and dark aspects of human biology. She believes that the ends justify the means, allowing her to overcome traditional ethical constraints. Moira is a support hero in Overwatch, utilizing her unique abilities to heal allies and damage enemies while drawing upon her extensive scientific knowledge.
+
+== Abilities
+
+* Biotic Grasp: Moira channels a beam of biotic energy that can either heal allies or drain the life from enemies. (Cooldown: None, Healing: 50 health per second, Damage: 20 damage per second)
+* Biotic Orb: Moira launches a sphere that can either heal allies or deal damage to enemies. (Cooldown: 10 seconds, Healing/Damage: 200)
+* Fade: Moira quickly dashes in the direction of her choosing, becoming briefly invulnerable and disappearing from the enemy's line of sight. (Cooldown: 6 seconds)
+* Coalescence: Moira channels a powerful beam that both heals allies and damages enemies in a wide cone in front of her. (Cooldown: 40 seconds, Healing/Damage: 140 total over 2 seconds)
+
+== Stats
+
+Health: 200
+Armor: None
+Shields: None
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Moira excels in team fights and can sustain her allies effectively while also dealing damage to enemies. In offensive scenarios, she should position herself behind her team, providing healing where it’s most needed while using her Biotic Grasp to eliminate weakened foes. On defense, she can utilize her Biotic Orb to zone out attackers, and her Fade ability enables quick escapes from danger. In chaotic fights, using Coalescence effectively can turn the tide by simultaneously healing teammates and damage opposing heroes.
+
+== Pros and Cons
+
+Pros:
+* Versatile healing and damage-dealing capabilities
+* Excellent self-sustain due to Fade
+* Does well in clustered team fights
+
+Cons:
+* Limited range on healing abilities
+* Vulnerable when Fade is on cooldown
+* Requires careful positioning to maximize effectiveness
+
+== Counters
+
+* Reaper: Moira’s Biotic Grasp can counter Reaper’s lifesteal from damage, allowing her to outlast him in encounters.
+* Genji: Moira can effectively deal with Genji's mobility and pressure due to her abilities that can track him while providing healing to allies.
+* Roadhog: Moira’s healing can counter Roadhog’s burst damage, and her drain ability works effectively to reduce his health consistently.
+
+== Countered By
+
+* Sombra: Sombra's Hack can disable Moira’s abilities, leaving her vulnerable without her healing or movement options.
+* Pharah: Moira struggles against Pharah’s aerial mobility, as her Biotic Grasp has limited vertical reach, making it difficult to heal or damage her.
+* Mei: Mei’s Ice Wall can block Moira’s abilities, while her freezing capability makes it difficult for Moira to escape or reposition effectively.
