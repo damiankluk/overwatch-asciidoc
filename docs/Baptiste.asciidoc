@@ -1,0 +1,44 @@
+= Baptiste
+
+== Description
+Baptiste is a combat medic with a unique background, hailing from Haiti. He was once a member of the Overwatch organization but left due to moral disagreements over their methods. Baptiste now uses his skills to serve as a healer on the battlefield, equipped with advanced technology and a deep understanding of medicine. His commitment to helping others has made him a critical ally in times of need, and he remains dedicated to making the world a better place, even as conflict continues to rage.
+
+== Abilities
+
+Regenerative Burst: Baptiste releases a biotic burst that rapidly heals allies in the area. (Cooldown: 10 seconds, Healing: 30 health per second)
+Biotic Launcher: A three-round burst weapon that can deal damage and heal allies in a projectile format. (Damage: 24 per shot, Healing: 50 per shot, Ammo: 10)
+Amplification Matrix: Baptiste creates a field that doubles the damage and healing effects of all projectiles that pass through it. (Cooldown: 20 seconds, Duration: 8 seconds)
+Immortality Field: Baptiste deploys a device that prevents allies from dying for a short time, making it impossible for them to be eliminated. (Cooldown: 25 seconds, Duration: 1.5 seconds)
+Transpose (Passive): A passive ability allowing Baptiste to switch places with an ally, maintaining distance and safety while providing support.
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Baptiste is best played as a healer who provides ongoing support in team fights. Positioning is crucial for him, as staying near teammates allows him to utilize his AOE healing effectively. In offense scenarios, Baptiste should leverage his Amplification Matrix during key engagements to maximize damage output for his team. On defense, the Immortality Field is critical for preventing picks during team fights. Baptiste can use his Transpose ability strategically to escape dangerous situations or to aid allies in retaliation.
+
+== Pros and Cons
+
+Pros:
+- Strong area healing capability
+- Can save teammates with Immortality Field
+Cons:
+- Vulnerable when abilities are on cooldown
+- Requires good positioning and awareness to be effective
+
+== Counters
+
+- Reaper: His high burst damage can quickly eliminate Baptiste if he gets too close.
+- Genji: Genji can swiftly evade his healing and make quick slashes that can take Baptiste down.
+- Pharah: Her aerial attacks can target Baptiste from a distance while evading ground-based attacks.
+
+== Countered By
+
+- Sombra: Her hacking capabilities can disable Baptiste's abilities, rendering him vulnerable.
+- Junkrat: His explosive attacks can overwhelm Baptiste's healing capabilities and take him down rapidly.
+- Widowmaker: A well-placed shot from afar can eliminate Baptiste before he has a chance to react or heal.
