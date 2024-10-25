@@ -1,0 +1,45 @@
+= Echo
+
+== Description
+Echo is an advanced Omnic hero who possesses the ability to adapt and evolve to the circumstances of battle. Created by the brilliant scientist Dr. Mina Liao as part of the Overwatch initiative, Echo embodies the merging of technology and combat prowess. With a quick understanding of mechanics and tactics, Echo can replicate the abilities of her enemies, making her a versatile combatant. Her background is steeped in the ideals of progress and innovation, which is reflected in her self-definition as a transformation of how heroes operate in battle.
+
+== Abilities
+
+Adaptive Circuitry: Echo gains increased movement speed and reload speed for a short duration after using her abilities. (Cooldown: 1.5 seconds)
+Tri-Shot: Fires three energy projectiles in a triangular formation, dealing damage to any enemy they hit. (Cooldown: None, Damage: 3 x 6)
+Focusing Beam: Fires a beam that deals high damage to targets below 50% health. (Cooldown: 1.5 seconds, Damage: 200)
+Echo can duplicate an enemy hero, gaining access to their abilities for a limited time. (Cooldown: 15 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+Echo excels in both offensive and defensive roles. In an offensive scenario, players should use her mobility and ability to duplicate enemy heroes to flank and deal damage. In team fights, anticipate the enemy's movements and utilize her Adaptive Circuitry to reposition rapidly while unleashing devastating damage with Tri-Shot and Focusing Beam.
+
+On defense, Echo can adopt a more strategic approach; using her duplication ability to counter high-value enemy threats can turn the tide. Effective usage of terrain to gain lines of sight while keeping a distance is crucial. Moreover, while duplicating a tank or support hero, make sure to leverage their abilities for team sustainability.
+
+== Pros and Cons
+
+Pros:
+* High mobility with Adaptive Circuitry.
+* Ability to replicate enemy heroes can turn engagements.
+Cons:
+* Relatively squishy with no armor or shields.
+* Requires good game sense to effectively utilize duplicates.
+
+== Counters
+
+Reaper: Echo's own skills can counter Reaper’s self-healing by outpacing him and dealing burst damage with Focusing Beam.
+Genji: Echo can outmaneuver Genji in close quarters, especially when using her duplicate abilities to counter his strikes.
+Tracer: With the mobility provided by her abilities, Echo can track and eliminate Tracer quickly before she can utilize her mobility to evade.
+
+== Countered By
+
+Pharah: Echo struggles against Pharah due to her aerial advantage and Echo's projectile-based attacks.
+McCree: A skilled McCree can burst down Echo before she can react, especially when aiming for critical hits.
+Bastion: Echo's poor sustained damage against Bastion's turret mode can leave her vulnerable when targeted from far away.
