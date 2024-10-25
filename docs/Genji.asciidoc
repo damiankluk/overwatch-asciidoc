@@ -1,0 +1,46 @@
+= Genji
+
+== Description
+Genji is a cyborg ninja who excels at mobility and agility. Once a member of the Shimada clan, Genji embraced his new mechanical form after a near-fatal confrontation with his brother, Hanzo. Genji is a master of the blade, utilizing both shuriken and a swift melee attack to dispatch enemies. Drawing on his heritage, he embodies the spirit of the shinobi, moving like a shadow while harnessing the power of his cyborg enhancements to outmaneuver foes. His dedication to mastering himself leads him to become a member of the Shimada clan’s reformed ideals, fighting for peace and justice.
+
+== Abilities
+
+Shuriken: Genji throws three shurikens in quick succession, either in a straight line or in a spread pattern. (Cooldown: N/A, Damage: 28 per shuriken)
+
+Deflect: Genji can deflect incoming projectiles back at enemies for a short time, effectively turning their attacks against them. (Cooldown: 8 seconds)
+
+Swift Strike: Genji dashes forward, slashing through all enemies in his path. Eliminating an enemy refreshes the cooldown of Swift Strike. (Cooldown: 8 seconds, Damage: 50)
+
+Dragonblade: Genji unsheathes his katana, allowing him to deal rapid sword slashes in melee range, with each slash dealing massive damage. (Cooldown: 30 seconds, Damage: 130 per slash)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 30 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Genji excels in offensive roles, utilizing his mobility to flank and harass enemy supports and backline characters. Use walls and obstacles to engage safely, deflecting incoming attacks before striking. In team fights, prioritize using Dragonblade after engaging with Swift Strike for maximum impact. It’s also crucial to maintain map awareness to escape when needed or to reposition for better offensive opportunities. Genji can be effective against squishier heroes, so try to focus on taking out supports to swing team dynamics in your favor.
+
+== Pros and Cons
+
+Pros:
+- High mobility allows for quick repositioning and evasive maneuvers.
+- Strong burst damage potential, especially against isolated enemies.
+Cons:
+- Squishy health pool makes Genji vulnerable to concentrated fire.
+- Requires good aim and timing to be effective at higher levels of play.
+
+== Counters
+
+Pharah: Genji's agility allows him to deal with Pharah's aerial attacks using his mobility and positioning.
+Mercy: Genji can quickly eliminate vulnerable supports like Mercy before she can heal allies.
+Junkrat: Genji's ability to deflect Junkrat's grenades back at him can turn the tide of a fight.
+
+== Countered By
+
+Reaper: Reaper's close-quarters damage output can quickly decimate Genji’s health.
+Sombra: Sombra can disable Genji's abilities with her hacking, leaving him defenseless.
+McCree (Cassidy): His stun can lock Genji down, allowing for easy elimination before he can react.
