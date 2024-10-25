@@ -1,0 +1,49 @@
+= Junkrat
+
+== Description
+Junkrat, whose real name is Jamison Fawkes, is a demolitions expert from the Australian Outback. Lore-wise, Junkrat is a criminal with a love for explosives and chaos, having mutated into a maniacal presence after surviving the Omnic Crisis. He is known for his unpredictable behavior and his attachment to his custom-built bombs, which he uses to wreak havoc on the battlefield. Junkrat’s life has been marked by survival and destruction, and he revels in creating mayhem wherever he goes.
+
+== Abilities
+
+**Steel Trap**: A trap that is deployed on the ground. It ensnares and immobilizes enemies who step on it. (Cooldown: 10 seconds, Damage: 100 when triggered)
+  
+**Concussive Mine**: He throws a sticky bomb that can be detonated at will. It causes damage and propels Junkrat or enemies it hits. (Cooldown: 8 seconds, Damage: 120)
+  
+**Frag Launcher**: Junkrat’s main weapon, a grenade launcher that fires grenades that explode after a short timer or upon impact. (Damage: 120, Blast Radius: 2.5m, Magazine Size: 6)
+  
+**RIP-Tire**: Junkrat's ultimate ability allows him to deploy a remote-controlled tire bomb that can navigate around corners. It explodes on command, dealing massive damage. (Cooldown: 3 seconds to deploy, Damage: 600 on direct hit)
+
+== Stats
+
+Health: 200  
+Armor: 0  
+Shields: 0  
+Movement Speed: 5.5 m/s  
+Critical Hit Multiplier: 2x  
+
+== Strategy
+As Junkrat, it is essential to play tactically and use the environment to your advantage. In offensive scenarios, focus on flanking enemy positions to unleash explosive traps and grenades from a distance. On defense, setting traps in chokepoints or near objectives can catch enemies off guard. During team fights, use Concussive Mines to create space or escape threats, and be sure to position yourself to use your RIP-Tire effectively, often waiting for key enemy abilities to be used before deploying it.
+
+== Pros and Cons
+
+Pros:
+* High burst damage potential with grenades and ult.
+* Can displace enemies with Concussive Mine.
+* Strong area denial with Steel Trap and explosives.
+Cons:
+* Limited mobility without the use of Concussive Mine or environmental advantages.
+* Vulnerable to hitscan heroes due to a large hitbox.
+* Requires good aim and timing for maximum effectiveness.
+
+== Counters
+
+* **Pharah**: Junkrat can easily take down Pharah from below with his explosive grenades and Steel Trap can thwart her mobility.
+* **Reaper**: Junkrat can damage Reaper from a distance before he can close the gap, making it hard for Reaper to engage.
+* **Torbjörn**: Junkrat's area damage can help take out Torbjörn’s turret quickly before it can deal significant damage.
+
+== Countered By
+
+* **Widowmaker**: Her long-range hitscan can easily pick off Junkrat, who has large hitbox and limited mobility.
+* **McCree**: Similar to Widowmaker, McCree can burst down Junkrat with his revolver, especially if he catches him off guard.
+* **Farah**: If positioned properly, Pharah can remain out of reach of Junkrat’s attacks while spamming rockets. 
+
