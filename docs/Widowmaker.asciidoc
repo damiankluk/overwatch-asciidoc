@@ -1,0 +1,51 @@
+= Widowmaker
+
+== Description
+Widowmaker, whose real name is Amélie Lacroix, is a genetically enhanced sniper and one of the most elite assassins in the Overwatch universe. Once a member of the terrorist organization Talon, her transformation began after her husband, Gérard Lacroix, was murdered, and she was subjected to conditioning that suppressed her emotions and turned her into a perfect killer. As a result, she is exceedingly focused and driven, often portrayed as a cold and calculating character. Her primary objective is to eliminate her targets from a distance, using her exceptional marksmanship and advanced technology.
+
+== Abilities
+
+Quickscope: Widowmaker's sniper rifle allows her to zoom in on targets for precise shots, dealing substantial damage. (Cooldown: None, Damage: 120)
+
+Grappling Hook: This ability lets Widowmaker quickly reposition herself by launching a grappling hook to reach higher vantage points or escape danger. (Cooldown: 12 seconds)
+
+Venom Mine: A deployable mine that sticks to surfaces and becomes active when an enemy approaches, applying damage and a complete vision debuff. (Cooldown: 15 seconds, Damage: 300)
+
+Infra-Sight: Widowmaker can activate her ultimate ability to reveal all enemy positions to her team for a limited time, allowing for team coordination and planning. (Cooldown: 0 seconds, Duration: 15 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Widowmaker excels at picking off enemies from a distance, making her most effective in offensive and defensive roles where she can find vantage points. In scenarios where teams clash in tight areas, utilize her Venom Mines to control space and catch enemies off-guard. 
+
+Playing on defense, prioritize setting up in high places with a clear line of sight to incoming attackers. In team fights, strategically use Infra-Sight to coordinate with teammates for efficient eliminations. Always remain mindful of your positioning; moving after every shot helps to avoid getting sniped in return.
+
+== Pros and Cons
+
+Pros:
+* High damage output with a single shot (headshots)
+* Ability to deny enemy movement with Venom Mines
+* Can provide valuable intel for the team with Infra-Sight
+
+Cons:
+* Squishy and vulnerable to close-range attacks
+* Requires precision and timing to be effective
+* No mobility without using the Grappling Hook on cooldown
+
+== Counters
+
+* Reinhardt - His barrier can block Widowmaker's shots, forcing her to reposition during frontal attacks.
+* Pharah - Airborne and difficult to hit, Pharah can effectively negate Widowmaker's long-range advantage.
+* Tracer - Highly mobile, Tracer can quickly close the gap and take Widowmaker out before she has a chance to react.
+
+== Countered By
+
+* McCree - With his Flashbang and high burst damage, McCree can stun Widowmaker and eliminate her quickly.
+* Genji - His mobility and Deflect ability allow him to not only dodge shots but also return fire effectively.
+* Winston - The leap and barrier create a frontline presence that can disrupt Widowmaker's sniping position and force her to relocate.
