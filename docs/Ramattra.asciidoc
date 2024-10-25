@@ -1,0 +1,55 @@
+= Ramattra
+
+== Description
+Ramattra is a versatile tank hero introduced in Overwatch 2, known for his ability to adapt to the flow of battle through his shifting forms. He hails from the Null Sector, a faction advocating for the rights of omnics, and serves as a protector of his people. His lore reveals a deep sense of purpose, motivated by a desire to secure omnics' place in the world. Ramattra represents the duality of strength and support, emphasizing teamwork and strategy.
+
+== Abilities
+
+Zenith: Ramattra transforms into his Omnic form, gaining increased range and area control. (Cooldown: 0 seconds, Damage: 0)
+
+Puppet Master: Ramattra unleashes a series of projectiles that damage and apply a debuff to enemies. (Cooldown: 8 seconds, Damage: 80 per shot)
+
+Guardian Form: Ramattra shifts into his Guardian form, increasing his health and gaining a shield. (Cooldown: 12 seconds, Damage: 0)
+
+Annihilation: Ramattra creates a sphere of energy that damages all enemies within its range and applies a debuff, progressively restoring his health for each target hit. (Cooldown: 120 seconds, Damage: 35 per second)
+
+== Stats
+
+Health: 450
+Armor: 0
+Shields: 150
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Ramattra excels in providing both offensive and defensive capabilities. In offensive scenarios, utilize Puppet Master to pressure enemies and control space. During team fights, switching between Guardian and Zenith form can help soak damage while dealing significant pressure on the opposing team. Be mindful of positioning, and try to engage when your team is ready to follow up.
+
+Defensively, Ramattra can use his shields to block incoming damage and protect allies. In contrast, his Annihilation ability should be used strategically to turn fights in your favor, especially when enemies are grouped together.
+
+== Pros and Cons
+
+Pros:
+- High adaptability in combat situations
+- Good area control with his abilities
+- Provides a balance between damage mitigation and output
+
+Cons:
+- Requires proper positioning and timing to be effective
+- Can be countered by burst damage heroes
+- Coordination with teammates is crucial for maximizing effectiveness
+
+== Counters
+
+D.Va: Ramattra's projectiles can be absorbed by D.Va's Defense Matrix, but his versatility allows him to reposition quickly.
+
+Reinhardt: Ramattra can outmaneuver Reinhardt by using his mobility to evade charges and provide ranged pressure.
+
+Winston: Ramattra can effectively control space against Winston by utilizing his ability to mitigate damage and deliver consistent output.
+
+== Countered By
+
+Zarya: Ramattra struggles against Zarya due to her ability to absorb and project damage, making her strong in direct confrontations.
+
+Sombra: Ramattra relies heavily on his abilities, and Sombra's hack can disable them, leaving him vulnerable.
+
+Pharah: Ramattra's ground-based abilities may struggle to hit Pharah, allowing her to attack from a distance without direct retaliation.
