@@ -1,0 +1,49 @@
+= Juno
+
+== Description
+Juno is a versatile support hero in the Overwatch universe. A former engineer and programmer, Juno was originally involved in cutting-edge robotics technology. Following an unsanctioned AI experiment that went awry, she took up the mantle of a protector, using her advanced knowledge to assist her allies in the fight against overwhelming odds. With a focus on enhancing team performance and battlefield awareness, Juno has become an asset to any team, utilizing both technology and tactics to secure victory.
+
+== Abilities
+
+**Tactical Boost**: Juno deploys a localized field that enhances the movement speed and reload speed of all allies within its range. (Cooldown: 12 seconds)
+
+**Nano Shield**: Juno creates a temporary shield on an ally, absorbing 150 damage for 4 seconds. (Cooldown: 10 seconds)
+
+**Overload**: Juno channels energy to improve her own healing output and gain increased healing over time for 5 seconds. (Cooldown: 15 seconds)
+
+**Ultimate - Command Protocol**: Juno activates a command drone that boosts the damage and healing of all allies in a large radius for 8 seconds. (Cooldown: 120 seconds)
+
+== Stats
+
+Health: 200  
+Armor: 0  
+Shields: 0  
+Movement Speed: 5.5 m/s  
+Critical Hit Multiplier: 2x  
+
+== Strategy
+Juno excels in team-oriented playstyles, supporting her allies effectively during engagements. When on offense, she should focus on using Tactical Boost to initiate fights, allowing her teammates to get the upper hand quickly. On defense, positioning is key—her Nano Shield can save key teammates from elimination, while Overload ensures she remains a consistent source of healing in prolonged engagements. During team fights, her Ultimate can turn the tide, making it imperative to time it well to maximize its impact.
+
+== Pros and Cons
+
+Pros:
+* Increases team mobility and reload efficiency with Tactical Boost.
+* Provides effective damage mitigation with Nano Shield.
+* Enhances healing capabilities during critical moments with Overload.
+
+Cons:
+* Relatively low health pool makes her vulnerable in direct confrontations.
+* Requires good awareness of team positioning and timing for abilities.
+* Ultimate can be countered or wasted if not used strategically.
+
+== Counters
+
+* **Reaper**: Juno’s Nano Shield can mitigate Reaper's burst damage, allowing allies to withstand his attacks and counter effectively.
+* **Tracer**: The movement speed boost from Tactical Boost helps allies keep up with her, making her harder to evade.
+* **Widowmaker**: Juno's shields can protect allies against Widowmaker's sniper shots, giving her team a fighting chance to engage.
+
+== Countered By
+
+* **McCree**: His flashbang can incapacitate Juno, preventing her from utilizing her abilities effectively.
+* **Pharah**: The aerial advantage allows Pharah to easily avoid Juno's abilities unless she has a solid team to support her.
+* **Sombra**: Sombra’s hack ability can disable Juno’s abilities, rendering her ineffective in clutch situations.
