@@ -1,0 +1,43 @@
+= Winston
+
+== Description
+Winston is a genetically-engineered gorilla with a strong sense of justice and a brilliant mind. Born in a scientific facility, he was raised by Dr. Harold Winston, a scientist who worked for the Horizon Lunar Colony. After the Omnic Crisis, Winston became a key member of Overwatch, using his intellect and his powerful abilities to protect humanity and fight for peace. Winston is known for his courage as well as his playful yet determined personality, making him a beloved character among the Overwatch community.
+
+== Abilities
+
+Barrier Projector: Winston generates a large barrier that blocks enemy fire and protects his teammates. (Cooldown: 12 seconds)
+Primal Rage: Winston unleashes his primal instincts, increasing his health and allowing him to leap around, dealing knockback to enemies. (Cooldown: 20 seconds)
+Electric Shock: Winston fires a short-range electric weapon that deals damage to enemies in front of him. (Cooldown: None, Damage: 60 per second)
+Jump Pack: Winston can leap to a designated location, allowing him to traverse great distances and engage or disengage from combat. (Cooldown: 6 seconds)
+
+== Stats
+
+Health: 500
+Armor: 50
+Shields: 0
+Movement Speed: 6 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+As Winston, players should focus on diving into the enemy backline to disrupt healers and fragile damage dealers. He shines in team fights, utilizing his Barrier Projector to absorb damage while his team engages. In offensive plays, use Jump Pack to initiate fights or escape when needed. On defense, Winston can act as a frontline tank, protecting teammates while being nimble and mobile. Keeping track of enemy abilities is crucial, as Winston can effectively counter various threats when played proactively.
+
+== Pros and Cons
+
+Pros:
+- High mobility and ability to engage/disengage quickly
+- Effective at disrupting enemy team compositions
+Cons:
+- Relatively low damage output without Primal Rage
+- Vulnerable to snipers and burst damage if caught out of position
+
+== Counters
+
+- Mei: Can freeze Winston in place, rendering him vulnerable and preventing him from escaping with Jump Pack.
+- Reaper: Deals high damage at close range and can outlast Winston in fights due to his lifesteal.
+- Pharah: Winston struggles against Pharah due to her aerial mobility and distance from his primary attacks.
+
+== Countered By
+
+- McCree: Can deal significant damage to Winston with Combustion and catch him off-guard.
+- Widowmaker: Can pick off Winston from a distance before he can reach her, due to his large hitbox and low range.
+- Bastion: Transforms into a turret and can shred through Winston's health and armor quickly from a distance if not countered.
