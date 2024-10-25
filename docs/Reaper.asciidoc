@@ -1,0 +1,49 @@
+```asciidoc
+= Reaper
+
+== Description
+Reaper is a deadly and mysterious figure who thrives in the shadows. Once known as Gabriel Reyes, he was a co-founder of Overwatch but now operates as a mercenary for the organization Talon. Plagued by his own dark past, he wields his iconic dual shotguns to reap the souls of his enemies. His abilities allow him to blend in and strike fear into his foes, making him a formidable presence on the battlefield.
+
+== Abilities
+
+Shadow Step: Teleport a short distance to a location in your line of sight. (Cooldown: 8 seconds)
+Hellfire Shotguns: Reaper's primary weapon, these shotguns deal 110 damage per shot, effective at close range, and can hold 8 shells per gun. (Damage: 110)
+The Reaping: Reaper heals for a percentage of damage dealt to enemies (50%) by his shotguns. 
+Death Blossom: Reveal your own location in exchange for deadly area damage around you. Fires all of your shotguns simultaneously, dealing 170 damage per second. (Cooldown: 210 seconds)
+Wraith Form: Become invincible and increase movement speed, allowing you to reposition or escape danger. (Cooldown: 8 seconds)
+
+== Stats
+
+Health: 250
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Reaper excels in close-quarters combat, making him a great flanker and ambusher. In offensive scenarios, he should utilize his Wraith Form to engage or disengage effectively, often following up with a Death Blossom in team fights to maximize area damage. On defense, Reaper can use Shadow Step to surprise enemies from unexpected angles. Positioning is key, always look for opportunities to get behind enemy lines and take out high-value targets.
+
+== Pros and Cons
+
+Pros:
+- High burst damage in close quarters
+- Self-sustain through healing from damage dealt
+- Good mobility with Wraith Form and Shadow Step
+
+Cons:
+- Vulnerable at long range, with shotguns underperforming
+- Requires careful positioning
+- Ulti (Death Blossom) is easily countered by crowd control abilities
+
+== Counters
+
+- Tracer: Reaper can deal with Tracer effectively due to her low health, allowing him to quickly eliminate her if he gets close.
+- Winston: Reaper can flank and attack Winston, who relies on close-range combat, effectively avoiding his barriers and damage output.
+- Genji: Reaper's shotguns can dismantle Genji quickly in close quarters if he can survive the initial burst.
+
+== Countered By
+
+- McCree: His high burst damage and Crowd Control can take Reaper down before he can capitalize on his strengths.
+- Pharah: As a projectile hero, Pharah can stay at range and deal consistent damage to Reaper, making it hard for him to close the distance.
+- Mei: Mei's ice wall and freeze ability can counter Reaper effectively, stopping his advances and making him an easy target.
+```
