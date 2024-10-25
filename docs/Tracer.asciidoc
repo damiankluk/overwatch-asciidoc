@@ -1,0 +1,49 @@
+= Tracer
+
+== Description
+Tracer is a damage hero in Overwatch, known for her exceptional speed and time-manipulation abilities. Once a test pilot for the Overwatch organization, Lena Oxton was involved in a tragic accident that left her chronically displaced in time. After being rescued and experimenting with a prototype device that allows her to control her phased state, she became a key member of Overwatch, embodying the spirit of heroism and adventure. With her upbeat personality, she fights to protect the world from threats, often getting into trouble while doing so.
+
+== Abilities
+
+Pulse Bomb: Tracer throws a sticky bomb that adheres to surfaces and enemies. (Cooldown: 10 seconds, Damage: 400 on stick)
+
+Blink: Tracer dashes forward a short distance up to three times, allowing her to escape danger or reposition quickly. (Cooldown: 3 seconds)
+
+Recall: Tracer rewinds herself to a previous point in time, restoring her health and position. (Cooldown: 12 seconds)
+
+Pulse Pistols: Dual rapid-fire pistols that deal moderate damage at close range. (Damage: 6 per shot, 20 shots per clip, 0.5 seconds reload)
+
+== Stats
+
+Health: 150
+Armor: 0
+Shields: 0
+Movement Speed: 126% (fastest in the game)
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Tracer excels in flanking and harassing enemy backlines. Use Blink skillfully to navigate around enemies and avoid damage while securing picks on vulnerable heroes like healers and snipers. During team fights, prioritize enemy supports and low-health targets, using Pulse Bomb to maximize damage when possible. Utilize Recall to escape sticky situations, and consider timing it just before taking lethal damage. Be mindful of your ammo and reload when not in imminent danger.
+
+== Pros and Cons
+
+Pros:
+- High mobility allows for quick escapes and repositioning.
+- Strong against squishy targets and supports.
+- Can effectively disrupt enemy backlines.
+Cons:
+- Low health makes her vulnerable to burst damage.
+- Requires good aim and timing to maximize effectiveness.
+- Can be countered easily by crowd control.
+
+== Counters
+
+- Widowmaker: Tracer's speed can be advantageous, but a skilled Widowmaker can quickly eliminate her from a distance.
+- Zenyatta: Tracer can outmaneuver Zenyatta but must be cautious of his Orb of Destruction and Transcendence.
+- Mercy: Tracer can be a headache for Mercy, easily picking her off if she strays too far from her team.
+
+== Countered By
+
+- McCree: His high burst damage with Fan the Hammer can quickly take out Tracer before she has a chance to Blink away.
+- Reaper: If he gets close, his shotguns can obliterate Tracer before she can react, especially in confined spaces.
+- Roadhog: His Chain Hook can pull Tracer in and eliminate her with a well-placed shot, making him a significant threat.
+
