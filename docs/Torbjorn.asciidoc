@@ -1,0 +1,49 @@
+= Torbjörn
+
+== Description
+Torbjörn Lindholm is a Swedish engineer and a member of Overwatch. He has a knack for building advanced weaponry and fortifications, making him a valuable asset on the battlefield. Raised amidst a war-torn childhood, Torbjörn developed an early interest in mechanics and engineering. His work with Overwatch helped to revolutionize defensive technology; however, the rise of Talon and subsequent events drove him to retire from active duty. Even in retirement, his dedication to the craft of engineering and protecting humanity remains steadfast, reflected in his ingenious turret designs and armor production abilities.
+
+== Abilities
+
+* Sentry Turret: Deploys an automatic turret that fires at enemies. (Cooldown: 10 seconds, Damage: 14 per shot, 250 health)
+* Overload: Temporarily grants himself a significant boost to armor and health. (Cooldown: 12 seconds, Health: 100 temporary)
+* Hammer: A melee weapon used to repair his turret and himself, dealing substantial damage in close combat. (Damage: 70)
+* Molten Core: Transforms his molten materials into a large pool of molten lava that damages enemies within it, while providing armor to allies. (Cooldown: 60 seconds, Damage: 130 per second)
+
+== Stats
+
+Health: 200
+Armor: 250 
+Shields: 0 
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+Torbjörn excels at defensive scenarios and works best in established team setups. He is best used in the following ways:
+
+* **Defense:** Position Torbjörn and his turret in chokepoints or near objectives to maximize turret effectiveness. Utilize Overload before engaging in fights to increase survivability.
+  
+* **Offense:** Torbjörn can lead charges into enemy positions, using his turret to pressure opponents while he follows up with his high-damage melee attacks.
+
+* **Team Fights:** Stick close to your team, using your turret to add pressure while repairing it as necessary. Place Molten Core strategically to control areas and damage clumped enemies.
+
+== Pros and Cons
+
+Pros:
+* Strong defensive capabilities with turrets that can control map areas.
+* Ability to provide armor to teammates with Molten Core.
+* Versatile in both offensive and defensive roles.
+Cons:
+* Mobility is relatively low, making him vulnerable to flanking.
+* Requires effective positioning to maximize turret effectiveness.
+* Vulnerable when his turret is destroyed.
+
+== Counters
+* Pharah: Her aerial advantage can allow her to attack Torbjörn's turret from above, often leaving it vulnerable.
+* Junkrat: Junkrat's explosives can easily destroy turrets and deal damage from a safe distance.
+* Widowmaker: Can take out Torbjörn and his turret from long range without putting herself in danger.
+
+== Countered By
+* Winston: His mobility and ability to dive in can quickly dismantle Torbjörn’s defenses.
+* Reaper: Reaper's close-range damage makes him a significant threat to Torbjörn, especially when Overload is on cooldown.
+* Mei: Mei's ability to freeze Torbjörn or his turret can negate much of his defensive advantage and secure easy kills for her.
