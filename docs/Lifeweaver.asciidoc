@@ -1,0 +1,51 @@
+= Lifeweaver
+
+== Description
+Lifeweaver is a support hero introduced in Overwatch 2, characterized by his unique blend of healing ability and environmental control. He hails from Thailand and embodies the principles of harmony and balance, both in his design and gameplay. Originating from a family of botanists, Lifeweaver harnesses the life energy of plants and nature to aid his allies and manage conflicts. His lore includes a deep connection to his homeland and a commitment to using his powers for the greater good, embodying a sense of duty towards protecting life.
+
+== Abilities
+
+Healing Blossom: Lifeweaver channels healing energy and releases it in a burst to heal allies in a small radius. (Cooldown: 1.5 seconds, Healing: 50 hp)
+
+Thorn Volley: Lifeweaver fires a volley of thorns that pierce through enemies. (Cooldown: 0.5 seconds, Damage: 5 per thorn, max 12 thorns)
+
+Life Grip: Lifeweaver pulls an ally to his position, making them invulnerable during the pull. (Cooldown: 12 seconds)
+
+Tree of Life: Lifeweaver plants a large tree that heals allies over time while offering temporary cover. (Cooldown: 20 seconds, Healing: 20 hp per second)
+
+Petal Platform: Lifeweaver creates a platform that elevates players who stand on it, allowing for vertical mobility. (Cooldown: 15 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Lifeweaver excels in both providing healing to teammates and altering the battlefield. In offense, he should focus on protecting his allies while providing healing to sustain their pushes. In defense, utilizing his Tree of Life can create a strategic positioning advantage, allowing teammates to regroup or heal in critical moments. During team fights, his Life Grip can save allies from certain deaths, while Petal Platform provides unique mobility to escape or flank the enemy. It's crucial to position wisely to maximize healing output and environmental control.
+
+== Pros and Cons
+
+Pros:
+* Strong healing capabilities that can support the team even in high-pressure situations.
+* Unique mobility tools that can aid allies in reaching elevated positions.
+* Versatile kit allows for both offensive and defensive strategies.
+
+Cons:
+* Requires good positioning and timing, making him less effective without proper teamwork.
+* Relatively low health pool, making him vulnerable to bursts of damage.
+* Skill-based abilities that may require time to master.
+
+== Counters
+
+* Reaper: Lifeweaver's healing output can be negated if Reaper gets close, especially if he uses his ultimate.
+* Genji: His mobility can outmaneuver Lifeweaver's healing, making it difficult to keep allies alive.
+* Pharah: An aerial threat can be hard to respond to without proper support from teammates.
+
+== Countered By
+
+* Sombra: Her hacking ability can disable Lifeweaver's critical healing abilities, leaving him vulnerable.
+* Soldier: 76: His burst damage and healing ability can outmatch Lifeweaver’s healing output.
+* McCree: His piercing shots can quickly eliminate Lifeweaver before he has a chance to heal himself or his allies.
