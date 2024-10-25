@@ -1,0 +1,44 @@
+= Sombra
+
+== Description
+Sombra is a hacker and stealthy infiltrator who operates in the shadows. Once a member of the notorious Los Muertos gang, she became disillusioned with the violence and chose to leverage her skills as a hacker to expose the secrets of those in power. Sombra is known for exploiting information to manipulate outcomes, turning the tide in her favor while remaining elusive. With a focus on disrupting enemy strategies, she embodies the essence of stealth and utility in Overwatch.
+
+== Abilities
+
+Stealth: Sombra can become invisible for a limited time, allowing her to reposition without being detected. (Cooldown: 6 seconds)
+Translocator: Sombra throws a device that allows her to teleport back to its location. (Cooldown:  cooldown: 4 seconds)
+Hack: Sombra can hack enemies and health packs, disabling their abilities for a short duration and revealing their location. (Cooldown: 8 seconds)
+Machine Pistol: A rapid-fire submachine gun that deals moderate damage at close range. (Damage: 7 per bullet)
+EMP: Sombra releases a powerful EMP pulse that hacks all enemies in range and removes their shields. (Cooldown: 40 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 12 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+Sombra excels at flanking and disrupting enemy formations while gathering crucial information. During offense, she should prioritize hacking key targets like supports or tanks to diminish their effectiveness. In defense, Sombra can use her invisibility to gather intel on enemy movements, ensuring her team is prepared for incoming threats. Sombra thrives in team fights by using her EMP to initiate engagements, allowing her allies to capitalize on the enemy's disabled abilities.
+
+== Pros and Cons
+
+Pros:
+* High mobility and stealth make her difficult to target.
+* Able to disable enemy abilities, turning engagements in her favor.
+Cons:
+* Low health pool makes her susceptible to burst damage.
+* Reliant on teamwork to maximize her ultimate's effectiveness.
+
+== Counters
+
+Tracer: Sombra’s hacking ability can disable Tracer’s Mobility and recall ability, rendering her vulnerable.
+Reaper: Sombra can hack Reaper to deny his teleport ability, making him less threatening during close encounters.
+Genji: By hacking Genji, Sombra can prevent him from using his abilities and reduce his overall effectiveness in battles.
+
+== Countered By
+
+McCree: His high burst damage can easily eliminate Sombra before she can escape or use her abilities effectively.
+Echo: Echo's mobility allows her to track and eliminate Sombra with her sticky bombs and beam damage.
+Winston: Winston’s leap can easily close the distance and eliminate Sombra before she can hack or escape.
