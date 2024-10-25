@@ -1,0 +1,51 @@
+= Ashe
+
+== Description
+Ashe is a damage hero in Overwatch, known for her sharp shooting skills and tactical acumen. The leader of the Deadlock Gang, she has a rebellious spirit and a knack for invention, especially with her weaponry. Her signature weapon is the Viper, a lever-action rifle that can be fired rapidly for lower damage or charged for a more powerful shot. Ashe is also accompanied by a robotic companion, Bob, who can provide additional firepower and crowd control on the battlefield. With a combination of strategy, teamwork, and firepower, Ashe excels in the hands of players who master her diverse abilities.
+
+== Abilities
+
+Viper: Ashe's primary weapon is a lever-action rifle that deals damage at medium to long range. The standard shot deals 80 damage, and a scoped shot can deal 200 damage. (Cooldown: N/A)
+
+Dynamite: Ashe throws a stick of dynamite that explodes after a short delay or upon igniting after contact with a target, dealing 100 damage in an area. If enemies are hit by the explosion, they are set on fire, dealing an additional 50 damage over 5 seconds. (Cooldown: 10 seconds)
+
+Coach Gun: A powerful shotgun blast that knocks enemies back and propels Ashe backward, allowing for repositioning. (Cooldown: 8 seconds)
+
+Bob: Ashe calls her ally Bob, who charges forward and slams into enemies, knocking them down. Bob has 1,200 health, can shoot enemies for 85 damage per shot, and can use his ultimate ability to initiate fights. (Cooldown: 20 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Ashe thrives at mid to long ranges, using cover to her advantage while strategically positioning herself on the battlefield. In team fights, utilize Dynamite to zone enemies or deal damage to grouped targets, and then follow up with Viper shots to finish off weakened foes. Coach Gun is essential for escaping sticky situations or getting the jump on unsuspecting enemies. Bob can serve as a great distraction or frontline fighter, allowing Ashe to support from a safer distance.
+
+In offensive scenarios, Ashe can flank or provide consistent damage from range. Defensively, she should take advantage of her superior range to poke at enemies before they engage. In larger team fights, coordinating with teammates to focus fire while using her abilities can quickly turn engagements in Ashe's favor.
+
+== Pros and Cons
+
+Pros:
+- High burst damage potential from Viper and Dynamite.
+- Versatile mobility with Coach Gun.
+- Strong crowd control and distraction with Bob.
+
+Cons:
+- Vulnerable when caught off guard or out of position.
+- Requires precise aim to maximize damage.
+- Can be easily countered by flanking heroes.
+
+== Counters
+
+- Genji: Ashe can out-range Genji, landing shots before he can close the distance.
+- Pharah: Ashe's Viper and Dynamite can effectively down Pharah when correctly positioned, negating her aerial advantage.
+- Reaper: Ashe can shoot from a distance, avoiding Reaper's close-range damage while dealing significant damage.
+
+== Countered By
+
+- Tracer: Agile and capable of flanking, Tracer can dodge Ashe's shots and quickly close the distance.
+- widowmaker: With her long-range capabilities, Widowmaker can out-range Ashe if she is spotted first.
+- Doomfist: Ashe can struggle against Doomfist due to his mobility and one-shot potential when he engages close.
