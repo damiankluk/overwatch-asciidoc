@@ -1,0 +1,46 @@
+= Sigma
+
+== Description
+Sigma is a tank hero in Overwatch, introduced in 2019. He is a former astrophysicist who was involved in an experiment to harness the power of black holes, leading to significant changes in his life. After an incident went awry, he gained the ability to manipulate gravity, resulting in his transformation into a living weapon under the control of Talon. Sigma represents the duality of genius and madness, embodying the tragic consequences of his scientific pursuits. He is a complex character, both formidable and unpredictable, fighting with a combination of intelligence and brute force.
+
+== Abilities
+
+Kinetic Grasp: Sigma absorbs incoming projectiles, converting them into shields for a short duration. (Cooldown: 10 seconds, Damage absorbed: varies)
+
+Accretion: Sigma gathers a mass of debris and throws it at enemies, knocking them down. (Cooldown: 7 seconds, Damage: 50)
+
+Experimental Barrier: Sigma projects a floating barrier that can be moved and positioned as needed, absorbing damage. (Cooldown: 0, Strength: 1600)
+
+Gravitic Flux: Sigma manipulates gravity to lift enemies into the air and slam them back to the ground, dealing damage. (Ultimate, Cooldown: 0, Damage: 50 per second)
+
+== Stats
+
+Health: 300
+Armor: 100
+Shields: 0
+Movement Speed: 4.0 m/s
+Critical Hit Multiplier: 2.0x
+
+== Strategy
+Sigma excels in holding the frontline while protecting teammates with his barriers. He is particularly effective in choked points where his Kinetic Grasp can absorb damage efficiently. In team fights, he should aim to disrupt enemy formations with Accretion and follow up with Gravitic Flux for maximum impact. Players should prioritize positioning both their barriers and themselves to manage incoming damage and support teammates effectively.
+
+== Pros and Cons
+
+Pros:
+- High versatility in both offense and defense roles.
+- Can absorb a significant amount of damage with Kinetic Grasp.
+- Provides crowd control with Accretion and Gravitic Flux.
+
+Cons:
+- Vulnerable to flankers due to his lack of mobility.
+- Dependent on teamwork to maximize the effectiveness of his abilities.
+
+== Counters
+- **Reinhardt**: Sigma can control the battlefield better with barriers while interrupting Reinhardt's charge and dealing consistent damage.
+- **Pharah**: Sigma's ability to manipulate gravity can disrupt Pharah's attacks, along with his projectiles being effective against airborne enemies.
+- **Roadhog**: Sigma can use Kinetic Grasp to absorb Roadhog's hook, rendering it less effective and taking advantage of the opportunity to retaliate.
+
+== Countered By
+- **Tracer**: Her high mobility allows her to exploit Sigma's weaknesses, evading his abilities and targeting him directly.
+- **Doomfist**: Can engage Sigma quickly, dealing high burst damage and stunning him with his abilities.
+- **Bastion**: Positioned correctly, Bastion can shred through Sigma's defenses, especially when in sentry mode.
