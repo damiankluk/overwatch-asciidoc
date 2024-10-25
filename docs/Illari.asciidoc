@@ -1,0 +1,43 @@
+= Illari
+
+== Description
+Illari is a hero from the Overwatch universe known for her illuminating abilities and resourceful playstyle. Originating from a technologically advanced society, she has become a beacon of hope for her allies, utilizing her unique powers to heal and empower her teammates while putting up a fight against enemies. With a strong connection to her home and a desire to protect it, Illari combines her defensive skills with offensive capabilities to dominate the battlefield.
+
+== Abilities
+
+* Solar Rifle: Illari's primary weapon that charges up and fires concentrated solar energy. (Cooldown: None, Damage: 20 per shot)
+* Healing Blossom: A powerful healing ability that provides a burst of healing to allies within range. (Cooldown: 8 seconds, Heals: 150 health)
+* Sunbeam: A secondary fire that fires a continuous beam of solar energy, dealing damage over time. (Cooldown: None, Damage: 30 per second)
+* Guardian: Deploys a solar protection barrier that absorbs damage and provides a protective shield to allies. (Cooldown: 12 seconds, Shield: 250)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 5.5 m/s
+Critical Hit Multiplier: 2.0
+
+== Strategy
+Illari excels in hybrid roles, allowing her to adapt to both offensive and defensive scenarios. In offense, she should position herself to support her team with Healing Blossom while engaging the enemy with her Solar Rifle. In defense, Illari benefits from utilizing her Guardian ability to protect critical locations and provide a shield to frontline allies. During team fights, staying mobile is key, as it allows her to heal wounded allies while still outputting damage.
+
+== Pros and Cons
+
+Pros:
+* Strong healing capabilities to sustain teammates.
+* Versatile in both dealing damage and providing support.
+Cons:
+* Relatively low health pool, making her vulnerable to burst damage.
+* Requires good positioning to maximize effectiveness.
+
+== Counters
+
+* Reaper: Illari's lack of shields makes her vulnerable to Reaper's close-range burst damage.
+* Mei: Mei's freeze ability can severely incapacitate Illari and prevent her from healing.
+* Genji: His swift mobility allows him to fluster Illari, getting to her quickly while dodging her shots.
+
+== Countered By
+
+* Winston: His high mobility and burst damage can quickly overwhelm Illari.
+* Ashe: Ashe's long-range capabilities can out-range Illari's Solar Rifle, keeping her at bay.
+* Sombra: Sombra can disable Illari’s abilities with her Hack ability, rendering her healing useless in team fights.
