@@ -1,0 +1,44 @@
+= Sojourn
+
+== Description
+Sojourn is a damage dealer in Overwatch, hailing from Canada and formerly a member of Overwatch. With a background in engineering, she combines technology with her combat skills. The character embodies resilience and leadership, having fought alongside Overwatch during conflicts to protect those in need. Sojourn's ultimate goal is to create a better future by taking on the systemic issues facing humanity, which makes her a potent ally in the ongoing battle for peace and justice.
+
+== Abilities
+
+Railgun: Fires a high-damage shot that can charge a secondary fire for a powerful beam attack. (Cooldown: None, Damage: 85/130 on headshot for primary; 200 on fully charged beam)
+Disruptor Shot: Throws a projectile that creates a field dealing damage and slowing enemies caught in it. (Cooldown: 10 seconds, Damage: 5 per second)
+Power Slide: A quick sliding maneuver that allows Sojourn to reposition and evade enemy attacks. (Cooldown: 5 seconds, Damage: None)
+Overclock (Ultimate): Temporarily empowers Sojourn's Railgun charged fire, allowing her to fire continuously, with unlimited ammo and an automatic charge. (Duration: 8 seconds)
+
+== Stats
+
+Health: 200
+Armor: 0
+Shields: 0
+Movement Speed: 6 m/s
+Critical Hit Multiplier: 2x
+
+== Strategy
+Sojourn excels in mid-range combat, utilizing her ability to deal substantial damage while maintaining mobility. During offense, use Power Slide to evade enemies and reposition for optimal shots. In defense, take advantage of Disruptor Shot to zone out foes or control choke points. In team fights, use Overclock strategically to take down high-priority targets while ensuring you dodge incoming fire. Communicate with your team to maximize the effectiveness of your abilities and put pressure on the enemy.
+
+== Pros and Cons
+
+Pros:
+- High mobility with Power Slide, enabling quick escapes and repositioning.
+- Strong burst damage potential with Railgun and the ability to slow enemies with Disruptor Shot.
+- Effective at mid-range engagements.
+Cons:
+- Relatively low health pool makes her vulnerable in close quarters.
+- Requires good aim and timing to maximize her damage output.
+
+== Counters
+
+Reaper: Sojourn’s ranged attacks struggle against Reaper's close-quarters effectiveness. If caught in a bind, his damage output can quickly eliminate her.
+Tracer: Sojourn has difficulty tracking Tracer due to her high mobility and blink abilities, making her an elusive target.
+Genji: Genji can outmaneuver Sojourn and deflect shots, especially when she utilizes her Railgun in predictable patterns.
+
+== Countered By
+
+Winston: Winston's dive ability and high mobility can overwhelm Sojourn and close the distance quickly, effectively negating her advantages.
+Pharah: Sojourn's Railgun struggles against Pharah when in the air, allowing Pharah to pressure her effectively from above.
+Bastion: In Sentry mode, Bastion can easily outgun Sojourn, especially if she mispositions or doesn't take cover when engaging.
